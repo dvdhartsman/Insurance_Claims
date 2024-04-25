@@ -1,754 +1,754 @@
-,age,policy_state,insured_sex,incident_date,incident_type,collision_type,incident_severity,authorities_contacted,incident_state,number_of_vehicles_involved,property_damage,bodily_injuries,witnesses,police_report_available,auto_make,auto_model,auto_year
-2,29,OH,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,NO,2,3,NO,Dodge,RAM,2007
-4,44,IL,MALE,2015-02-17,Vehicle Theft,?,Minor Damage,Unknown,NY,1,NO,0,1,NO,Accura,RSX,2009
-6,34,IN,MALE,2015-01-13,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,?,0,0,?,Nissan,Pathfinder,2012
-7,37,IL,MALE,2015-02-27,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,3,?,2,2,YES,Audi,A5,2015
-8,33,IL,FEMALE,2015-01-30,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,NO,1,1,YES,Toyota,Camry,2012
-9,42,IL,MALE,2015-01-05,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,1,NO,2,1,?,Saab,92x,1996
-10,42,OH,FEMALE,2015-01-06,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,YES,2,2,?,Ford,F150,2002
-11,61,OH,FEMALE,2015-02-15,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,YES,1,2,YES,Audi,A3,2006
-12,23,OH,MALE,2015-01-22,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,YES,1,0,NO,Saab,95,2000
-13,34,OH,FEMALE,2015-01-08,Parked Car,?,Minor Damage,Unknown,SC,1,NO,1,1,NO,Toyota,Highlander,2010
-16,26,OH,MALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,3,?,1,2,YES,Nissan,Maxima,2012
-17,31,IN,MALE,2015-01-06,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,1,NO,0,2,YES,Suburu,Legacy,2015
-18,37,OH,FEMALE,2015-01-19,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,YES,1,0,NO,Accura,TL,2015
-19,39,IN,FEMALE,2015-02-22,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,3,?,2,0,NO,Nissan,Pathfinder,2014
-20,62,IN,MALE,2015-01-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,NO,1,0,?,Suburu,Impreza,2011
-21,41,IL,FEMALE,2015-02-10,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,?,1,2,?,Accura,RSX,1996
-24,40,IN,MALE,2015-02-24,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,1,NO,1,3,NO,Ford,Escape,2005
-26,43,IN,MALE,2015-01-28,Parked Car,?,Minor Damage,Police,PA,1,YES,1,3,YES,Toyota,Camry,2005
-28,40,OH,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,1,NO,1,0,YES,Dodge,Neon,2009
-29,45,IL,FEMALE,2015-02-15,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,NO,2,2,NO,Accura,TL,2011
-30,25,IL,MALE,2015-01-18,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,4,NO,0,0,?,Toyota,Corolla,2005
-32,35,IL,FEMALE,2015-02-24,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,3,YES,2,3,NO,BMW,3 Series,2008
-33,30,IL,MALE,2015-01-09,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,NO,1,2,?,Suburu,Impreza,2015
-34,37,IL,MALE,2015-02-12,Single Vehicle Collision,Side Collision,Total Loss,Fire,WV,1,YES,0,1,YES,Audi,A3,1999
-37,49,IL,FEMALE,2015-01-18,Parked Car,?,Minor Damage,Police,WV,1,NO,1,1,YES,Suburu,Legacy,2001
-38,54,IN,FEMALE,2015-01-21,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,3,?,2,0,?,Jeep,Wrangler,2007
-40,26,IL,MALE,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,NO,2,2,?,BMW,M5,2010
-42,23,IL,FEMALE,2015-01-16,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,YES,1,0,NO,Dodge,RAM,2010
-43,30,OH,FEMALE,2015-02-10,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,1,NO,2,2,NO,Mercedes,E400,2005
-44,44,IL,MALE,2015-02-14,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,1,YES,0,2,?,Toyota,Highlander,2014
-45,40,IL,FEMALE,2015-02-21,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,NO,2,3,?,Accura,MDX,2002
-46,33,IN,FEMALE,2015-02-18,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NC,3,YES,1,1,?,Honda,Civic,2014
-48,34,IN,FEMALE,2015-02-26,Vehicle Theft,?,Trivial Damage,Police,NY,1,?,2,0,YES,Volkswagen,Passat,1995
-49,35,IL,FEMALE,2015-01-01,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,1,NO,0,0,?,Mercedes,C300,2000
-50,59,OH,MALE,2015-01-03,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,?,0,3,YES,Nissan,Pathfinder,1998
-51,27,IL,FEMALE,2015-01-17,Vehicle Theft,?,Trivial Damage,Unknown,NY,1,?,1,2,?,BMW,M5,2008
-52,39,IN,MALE,2015-02-22,Vehicle Theft,?,Minor Damage,Police,WV,1,?,2,1,YES,Toyota,Corolla,2000
-53,40,IN,FEMALE,2015-01-27,Multi-vehicle Collision,Side Collision,Major Damage,Police,NC,3,YES,1,0,?,Suburu,Forrestor,1999
-54,39,OH,MALE,2015-02-27,Parked Car,?,Minor Damage,Police,VA,1,NO,0,1,YES,Ford,F150,2009
-55,26,OH,MALE,2015-01-06,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,YES,1,2,NO,Chevrolet,Silverado,1995
-56,56,IN,FEMALE,2015-02-28,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,?,2,3,?,Honda,CRV,2014
-57,32,IN,FEMALE,2015-02-22,Parked Car,?,Minor Damage,Unknown,VA,1,NO,1,3,NO,Chevrolet,Silverado,2014
-58,39,IL,MALE,2015-01-07,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,YES,0,1,NO,Saab,93,2007
-59,36,OH,FEMALE,2015-01-06,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,3,NO,1,1,NO,Ford,Escape,2000
-61,44,IL,MALE,2015-02-11,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,3,NO,0,3,NO,Honda,Accord,1997
-62,32,IL,MALE,2015-01-12,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,0,3,YES,BMW,M5,2011
-67,64,OH,FEMALE,2015-02-02,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,3,NO,1,1,NO,BMW,X6,1998
-68,30,OH,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,1,NO,0,3,NO,Audi,A5,1997
-69,49,IN,MALE,2015-02-27,Parked Car,?,Minor Damage,Unknown,NC,1,NO,0,1,?,Ford,F150,2004
-72,41,OH,FEMALE,2015-02-11,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,1,NO,1,2,NO,Chevrolet,Malibu,1999
-73,37,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,NO,2,0,YES,Mercedes,C300,2002
-74,40,IL,FEMALE,2015-03-01,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,3,YES,1,0,YES,BMW,X6,2005
-75,35,OH,FEMALE,2015-01-15,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,SC,3,NO,2,0,NO,Ford,Fusion,2010
-76,45,OH,FEMALE,2015-01-14,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,1,1,YES,Suburu,Legacy,1998
-77,47,IN,MALE,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,NO,0,2,?,Audi,A3,2005
-78,39,OH,FEMALE,2015-01-24,Vehicle Theft,?,Minor Damage,Police,SC,1,YES,2,2,YES,Saab,95,2004
-80,31,OH,MALE,2015-02-19,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,3,NO,1,2,NO,Accura,MDX,2005
-81,40,OH,FEMALE,2015-01-03,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,?,2,1,?,Accura,TL,2005
-82,29,IL,MALE,2015-01-29,Vehicle Theft,?,Minor Damage,Police,NY,1,YES,2,2,NO,Nissan,Maxima,2002
-83,35,IN,MALE,2015-01-19,Vehicle Theft,?,Trivial Damage,Police,VA,1,NO,0,3,YES,Volkswagen,Jetta,2002
-85,41,OH,MALE,2015-02-02,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,3,YES,0,1,?,Suburu,Legacy,2007
-86,34,IL,FEMALE,2015-01-30,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,3,NO,2,1,?,Ford,F150,2007
-87,32,IL,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,1,?,2,1,YES,BMW,3 Series,2015
-88,36,IL,FEMALE,2015-01-30,Parked Car,?,Trivial Damage,Police,WV,1,NO,0,1,YES,Dodge,Neon,2002
-90,29,OH,FEMALE,2015-02-24,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,2,YES,1,1,?,Saab,93,1995
-92,42,IL,MALE,2015-02-28,Parked Car,?,Trivial Damage,Unknown,WV,1,NO,0,1,NO,BMW,X5,2007
-93,43,IN,FEMALE,2015-02-09,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,3,NO,1,1,?,Ford,Fusion,2009
-94,42,IL,FEMALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,3,NO,1,0,NO,Mercedes,ML350,2005
-95,25,IL,FEMALE,2015-02-21,Vehicle Theft,?,Minor Damage,Police,OH,1,NO,2,0,YES,Toyota,Highlander,2001
-98,48,OH,FEMALE,2015-02-22,Parked Car,?,Trivial Damage,Police,WV,1,?,1,2,YES,Saab,95,1999
-99,42,IL,MALE,2015-01-26,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,NO,0,0,?,Audi,A3,2007
-100,41,IN,FEMALE,2015-01-24,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,YES,0,0,?,Saab,92x,2007
-101,27,IL,FEMALE,2015-02-19,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,YES,1,0,YES,Saab,95,2004
-102,41,IL,FEMALE,2015-01-29,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NC,3,?,2,3,NO,Ford,Fusion,2013
-103,33,OH,FEMALE,2015-02-15,Parked Car,?,Minor Damage,Police,WV,1,NO,1,1,NO,Toyota,Highlander,2008
-104,54,OH,MALE,2015-02-12,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,NO,0,0,?,Chevrolet,Malibu,2014
-105,49,IL,MALE,2015-01-01,Vehicle Theft,?,Minor Damage,Police,WV,1,YES,1,3,YES,Mercedes,E400,2002
-107,28,IN,FEMALE,2015-03-01,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,2,NO,1,0,?,Volkswagen,Passat,1997
-110,42,OH,FEMALE,2015-01-12,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,?,1,2,YES,Dodge,RAM,2010
-112,41,IL,MALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,?,2,0,NO,BMW,X5,2001
-113,32,IN,MALE,2015-03-01,Multi-vehicle Collision,Side Collision,Major Damage,Other,VA,2,?,1,1,?,Saab,93,2007
-114,51,OH,MALE,2015-02-24,Vehicle Theft,?,Minor Damage,Police,VA,1,YES,1,1,YES,Ford,F150,2001
-116,31,IL,FEMALE,2015-02-26,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,NO,0,3,NO,Suburu,Legacy,2002
-118,38,IL,FEMALE,2015-01-17,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,NO,1,3,YES,Ford,Fusion,2015
-119,39,OH,FEMALE,2015-02-20,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,0,1,?,BMW,3 Series,2010
-120,41,IL,MALE,2015-02-22,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,1,NO,2,0,?,Volkswagen,Passat,2000
-123,25,OH,FEMALE,2015-01-05,Multi-vehicle Collision,Front Collision,Total Loss,Other,NC,4,YES,1,0,NO,Accura,MDX,1995
-124,35,IL,FEMALE,2015-02-03,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,YES,1,1,?,BMW,X5,2011
-125,39,IN,MALE,2015-02-17,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,3,NO,2,3,YES,Ford,Escape,2013
-126,38,IL,MALE,2015-01-09,Single Vehicle Collision,Side Collision,Total Loss,Other,WV,1,NO,0,0,?,Suburu,Impreza,2001
-127,32,IN,FEMALE,2015-02-08,Parked Car,?,Minor Damage,Police,PA,1,?,2,0,?,BMW,M5,1998
-130,45,IN,MALE,2015-01-22,Multi-vehicle Collision,Front Collision,Minor Damage,Other,NY,3,YES,1,2,NO,Ford,Escape,1999
-131,39,IN,MALE,2015-02-23,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,3,?,2,2,NO,Dodge,RAM,2012
-132,27,OH,FEMALE,2015-02-22,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,3,?,0,1,?,Nissan,Pathfinder,2013
-133,33,IL,FEMALE,2015-01-24,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,1,?,2,1,NO,Jeep,Wrangler,2002
-134,32,OH,MALE,2015-02-09,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,1,?,1,1,?,BMW,3 Series,2006
-136,40,IL,FEMALE,2015-01-01,Vehicle Theft,?,Minor Damage,Police,VA,1,?,0,0,NO,Ford,Escape,2015
-137,28,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,NO,0,3,?,BMW,X5,2010
-138,46,IL,FEMALE,2015-02-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,3,?,1,2,YES,Toyota,Camry,1999
-139,32,IL,FEMALE,2015-02-21,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,3,NO,0,2,YES,BMW,X5,1995
-140,35,OH,MALE,2015-01-21,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,YES,0,1,?,Mercedes,E400,2008
-141,41,IL,MALE,2015-01-19,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,?,2,3,?,Suburu,Forrestor,2001
-142,34,IN,MALE,2015-02-27,Parked Car,?,Minor Damage,Police,SC,1,?,2,1,YES,Chevrolet,Silverado,2013
-144,31,IL,FEMALE,2015-02-01,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,3,?,0,3,YES,Accura,MDX,2011
-147,38,OH,FEMALE,2015-01-19,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,?,1,1,?,Nissan,Pathfinder,2014
-150,32,OH,FEMALE,2015-01-09,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,?,1,0,?,Audi,A3,2014
-151,45,IL,MALE,2015-02-27,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,3,?,2,1,?,Mercedes,C300,2009
-153,54,OH,FEMALE,2015-01-08,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,3,NO,2,3,?,Suburu,Forrestor,1997
-156,61,OH,MALE,2015-02-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,2,1,YES,Jeep,Wrangler,2006
-157,59,IN,FEMALE,2015-02-06,Parked Car,?,Minor Damage,Unknown,WV,1,?,2,3,NO,Saab,92x,2013
-158,38,IN,MALE,2015-02-14,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,WV,3,?,2,0,?,Suburu,Legacy,2013
-159,29,OH,FEMALE,2015-02-05,Vehicle Theft,?,Minor Damage,Police,NY,1,?,2,0,?,Honda,Accord,1999
-160,36,IN,FEMALE,2015-01-25,Parked Car,?,Minor Damage,Police,VA,1,YES,2,3,?,Mercedes,E400,2014
-161,48,IN,FEMALE,2015-01-16,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,?,2,0,?,Chevrolet,Silverado,1997
-162,48,OH,FEMALE,2015-01-28,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,2,NO,2,1,YES,Volkswagen,Passat,2002
-164,34,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,PA,3,NO,2,0,YES,Mercedes,E400,2011
-165,29,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,NO,2,2,YES,Suburu,Legacy,2012
-167,45,IL,MALE,2015-02-27,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,NO,0,0,NO,Saab,95,1999
-168,46,IL,FEMALE,2015-02-21,Parked Car,?,Trivial Damage,Police,SC,1,?,0,1,NO,Toyota,Highlander,2015
-169,37,IN,MALE,2015-01-05,Parked Car,?,Minor Damage,Unknown,NY,1,NO,1,0,NO,Jeep,Wrangler,2011
-170,42,IL,MALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,YES,0,0,?,Jeep,Wrangler,2006
-172,29,IL,MALE,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,3,YES,1,0,?,Dodge,Neon,2001
-173,31,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,3,?,0,2,YES,Volkswagen,Jetta,2014
-174,44,IL,FEMALE,2015-02-05,Vehicle Theft,?,Trivial Damage,Unknown,WV,1,NO,0,1,NO,Ford,Fusion,2002
-175,46,IN,MALE,2015-01-21,Single Vehicle Collision,Rear Collision,Minor Damage,Other,PA,1,?,1,0,YES,Jeep,Wrangler,2011
-176,34,IN,MALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,OH,1,NO,1,1,YES,Honda,Civic,1998
-177,45,IL,FEMALE,2015-01-11,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,YES,0,1,?,Volkswagen,Jetta,2003
-178,40,IN,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,1,YES,0,1,NO,Chevrolet,Malibu,1998
-179,39,IL,MALE,2015-01-24,Vehicle Theft,?,Trivial Damage,Unknown,NY,1,?,2,1,NO,Chevrolet,Silverado,2010
-180,36,OH,MALE,2015-02-18,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,3,?,2,0,YES,Audi,A3,2006
-181,54,IL,FEMALE,2015-01-12,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,YES,2,3,?,Dodge,Neon,1997
-182,27,IN,FEMALE,2015-01-17,Single Vehicle Collision,Side Collision,Total Loss,Police,VA,1,YES,2,3,NO,Accura,RSX,2009
-184,46,OH,MALE,2015-01-06,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,1,?,0,2,NO,Mercedes,C300,2013
-186,34,IL,FEMALE,2015-02-16,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,3,?,1,1,NO,Audi,A3,2009
-187,39,IN,FEMALE,2015-02-25,Vehicle Theft,?,Minor Damage,Police,NY,1,YES,1,3,YES,Chevrolet,Tahoe,2010
-189,28,OH,FEMALE,2015-02-16,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,VA,1,NO,0,2,YES,Honda,CRV,2007
-190,57,OH,MALE,2015-02-09,Parked Car,?,Minor Damage,Police,SC,1,YES,0,1,YES,Volkswagen,Passat,2008
-191,39,IN,MALE,2015-02-13,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,?,1,2,?,Nissan,Maxima,2001
-192,47,OH,FEMALE,2015-01-11,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,1,NO,0,3,NO,Mercedes,C300,2012
-193,32,OH,MALE,2015-01-02,Vehicle Theft,?,Minor Damage,Police,VA,1,YES,1,1,YES,Nissan,Maxima,2015
-194,26,IL,MALE,2015-02-12,Multi-vehicle Collision,Rear Collision,Total Loss,Other,VA,3,?,0,1,YES,Chevrolet,Tahoe,2003
-195,44,IL,MALE,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NC,2,YES,2,3,NO,Saab,95,2006
-197,43,OH,FEMALE,2015-01-12,Parked Car,?,Trivial Damage,Unknown,WV,1,YES,0,3,?,Accura,MDX,2006
-198,48,IL,MALE,2015-01-16,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,1,YES,2,1,NO,Honda,Civic,2014
-199,43,OH,FEMALE,2015-01-13,Vehicle Theft,?,Minor Damage,Police,SC,1,?,1,1,?,BMW,3 Series,1997
-200,31,IL,MALE,2015-02-02,Vehicle Theft,?,Trivial Damage,Police,NY,1,NO,2,1,YES,Suburu,Impreza,2011
-201,49,OH,MALE,2015-02-28,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,WV,1,?,2,0,YES,Suburu,Legacy,2006
-202,39,IN,FEMALE,2015-01-18,Parked Car,?,Trivial Damage,Police,NY,1,NO,0,2,NO,Chevrolet,Malibu,2015
-203,62,IL,MALE,2015-02-15,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,YES,0,3,?,Chevrolet,Tahoe,2009
-204,39,IL,MALE,2015-01-31,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,3,NO,1,2,?,Saab,93,1995
-205,43,OH,FEMALE,2015-02-10,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,NO,2,1,NO,BMW,M5,2011
-207,29,OH,MALE,2015-02-25,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,3,?,0,3,YES,Audi,A3,2005
-208,48,IN,MALE,2015-01-08,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,4,NO,2,3,NO,Mercedes,C300,2003
-209,53,IN,MALE,2015-01-14,Parked Car,?,Trivial Damage,Police,WV,1,NO,0,1,NO,Suburu,Legacy,2002
-210,24,OH,FEMALE,2015-02-03,Vehicle Theft,?,Minor Damage,Police,NC,1,NO,2,0,NO,Toyota,Corolla,2015
-211,37,IN,MALE,2015-01-05,Vehicle Theft,?,Trivial Damage,Unknown,OH,1,?,1,2,?,Dodge,RAM,1999
-212,50,OH,MALE,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,YES,2,3,YES,Volkswagen,Passat,2009
-216,26,IL,FEMALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,NO,2,2,NO,Audi,A5,2008
-217,28,OH,MALE,2015-02-10,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,?,2,1,NO,BMW,X5,2004
-219,43,OH,MALE,2015-01-09,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,NO,1,0,NO,BMW,X6,1999
-221,49,OH,FEMALE,2015-02-21,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,1,NO,2,2,NO,Jeep,Grand Cherokee,2012
-222,50,IL,FEMALE,2015-02-04,Single Vehicle Collision,Side Collision,Total Loss,Fire,NY,1,YES,0,0,NO,Chevrolet,Silverado,1995
-223,50,IL,MALE,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,?,1,1,NO,Mercedes,E400,1995
-224,38,IN,FEMALE,2015-01-17,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,3,?,0,3,YES,Accura,MDX,2008
-225,41,IN,MALE,2015-01-28,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,1,YES,0,1,YES,Jeep,Wrangler,1999
-226,52,IL,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,2,YES,2,0,?,Accura,RSX,2010
-228,53,IL,FEMALE,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,3,YES,1,3,NO,Saab,93,2015
-229,37,IL,FEMALE,2015-01-09,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,?,0,3,NO,Accura,MDX,2000
-230,34,OH,FEMALE,2015-02-09,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,NO,0,2,YES,Honda,CRV,2005
-231,46,OH,MALE,2015-02-16,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,NO,2,3,YES,Volkswagen,Passat,2005
-232,42,IN,FEMALE,2015-02-18,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,4,?,2,1,YES,Toyota,Highlander,2006
-233,35,IL,MALE,2015-01-11,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,3,?,2,0,NO,Nissan,Pathfinder,1999
-235,54,IN,MALE,2015-01-22,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,NO,1,0,?,Nissan,Ultima,2009
-236,32,IN,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,1,1,NO,Dodge,RAM,1999
-238,41,OH,FEMALE,2015-02-16,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,?,1,1,?,Saab,92x,2010
-239,37,IN,FEMALE,2015-02-08,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,YES,1,1,?,Suburu,Legacy,1999
-240,43,IL,FEMALE,2015-01-26,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,?,0,0,YES,Saab,92x,2015
-242,40,OH,FEMALE,2015-02-02,Parked Car,?,Trivial Damage,Police,SC,1,?,2,1,YES,Nissan,Ultima,2001
-243,36,IL,FEMALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,3,?,2,2,NO,Dodge,RAM,2012
-244,28,OH,MALE,2015-01-01,Vehicle Theft,?,Trivial Damage,Unknown,PA,1,YES,1,2,NO,Mercedes,E400,2014
-246,28,IL,FEMALE,2015-01-17,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,YES,0,2,YES,Saab,92x,2008
-248,27,IL,MALE,2015-01-02,Parked Car,?,Minor Damage,Unknown,SC,1,?,0,3,NO,Mercedes,E400,2009
-249,30,IN,FEMALE,2015-02-20,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,1,?,1,3,YES,Chevrolet,Malibu,2001
-252,40,OH,FEMALE,2015-01-27,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,1,1,NO,Saab,95,1998
-255,57,IL,FEMALE,2015-01-14,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,NO,0,1,?,Dodge,RAM,1995
-256,36,IL,MALE,2015-02-22,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,YES,1,0,YES,Accura,TL,2004
-258,40,IL,FEMALE,2015-02-02,Vehicle Theft,?,Trivial Damage,Police,NY,1,YES,1,3,YES,Toyota,Camry,2014
-260,29,OH,FEMALE,2015-02-02,Parked Car,?,Trivial Damage,Unknown,SC,1,?,0,1,NO,Dodge,Neon,2014
-263,40,IN,MALE,2015-01-10,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,?,1,1,?,Dodge,RAM,2001
-264,30,IL,FEMALE,2015-01-30,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,NO,1,0,YES,Volkswagen,Passat,2010
-265,57,IL,FEMALE,2015-01-25,Vehicle Theft,?,Trivial Damage,Police,NC,1,NO,1,0,NO,Audi,A5,1999
-267,29,IN,FEMALE,2015-02-24,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,NO,0,0,?,BMW,X5,2009
-268,37,OH,MALE,2015-01-04,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,PA,3,YES,0,3,NO,Nissan,Pathfinder,2001
-269,36,IN,FEMALE,2015-02-25,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,3,YES,2,3,YES,Chevrolet,Tahoe,2007
-270,55,OH,MALE,2015-01-27,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,3,?,2,0,YES,Toyota,Highlander,2003
-271,40,IL,FEMALE,2015-02-19,Parked Car,?,Minor Damage,Unknown,NY,1,NO,0,0,NO,Audi,A3,2012
-273,26,OH,FEMALE,2015-01-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,3,?,1,0,NO,Nissan,Ultima,2002
-274,39,IL,FEMALE,2015-01-10,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,0,2,?,Ford,Fusion,1997
-275,43,IN,FEMALE,2015-01-28,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,3,?,0,1,NO,Jeep,Wrangler,2008
-276,42,IN,MALE,2015-02-16,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,YES,1,2,NO,Saab,93,2012
-279,38,IL,FEMALE,2015-02-06,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,YES,2,1,YES,BMW,X6,1997
-280,39,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,PA,3,NO,1,3,?,Nissan,Ultima,2012
-282,40,OH,FEMALE,2015-02-18,Vehicle Theft,?,Minor Damage,Police,SC,1,YES,0,0,YES,Jeep,Grand Cherokee,2003
-284,36,OH,FEMALE,2015-02-13,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,3,?,1,3,YES,Ford,Escape,2009
-285,33,IL,FEMALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,1,YES,0,1,?,Accura,MDX,2008
-286,31,IN,MALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,3,YES,2,0,NO,Suburu,Forrestor,1999
-287,40,OH,FEMALE,2015-01-29,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,?,1,0,NO,Toyota,Camry,1997
-289,39,IN,FEMALE,2015-02-01,Parked Car,?,Minor Damage,Police,VA,1,NO,0,2,?,BMW,3 Series,2013
-290,42,OH,MALE,2015-01-29,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,1,YES,0,1,?,Chevrolet,Malibu,1996
-291,40,IL,MALE,2015-02-06,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,3,?,0,2,NO,BMW,X5,2010
-293,34,IL,MALE,2015-01-21,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,YES,2,2,?,Mercedes,ML350,1998
-295,31,IN,FEMALE,2015-02-17,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,?,1,2,NO,Mercedes,ML350,2009
-296,43,IL,MALE,2015-02-01,Multi-vehicle Collision,Front Collision,Minor Damage,Police,PA,3,YES,2,2,YES,Audi,A3,2010
-297,39,IL,FEMALE,2015-02-25,Parked Car,?,Trivial Damage,Police,SC,1,?,2,3,?,Dodge,RAM,2003
-298,35,IL,FEMALE,2015-02-26,Parked Car,?,Minor Damage,Unknown,WV,1,YES,1,0,?,Nissan,Pathfinder,2003
-299,27,IN,MALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Major Damage,Other,PA,2,NO,1,0,?,Accura,TL,2006
-300,43,IL,FEMALE,2015-02-03,Vehicle Theft,?,Trivial Damage,Police,SC,1,NO,1,3,NO,Audi,A5,2008
-301,31,IL,MALE,2015-01-27,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,YES,1,2,?,Honda,CRV,2001
-302,44,IL,MALE,2015-01-21,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,3,YES,0,2,?,Jeep,Wrangler,2013
-303,40,IL,MALE,2015-01-24,Parked Car,?,Trivial Damage,Police,NY,1,?,0,2,NO,Ford,F150,1997
-304,47,IN,MALE,2015-01-17,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,YES,0,0,NO,Accura,TL,2001
-308,37,OH,MALE,2015-01-16,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,?,1,1,YES,Suburu,Legacy,1999
-309,36,IL,MALE,2015-01-14,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,NO,2,2,NO,BMW,3 Series,2008
-312,33,OH,FEMALE,2015-01-04,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,?,0,0,?,Suburu,Legacy,2012
-313,59,OH,MALE,2015-01-12,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,?,2,2,NO,Toyota,Corolla,2014
-314,30,IL,FEMALE,2015-01-08,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,YES,2,0,?,BMW,X6,2009
-315,42,IL,FEMALE,2015-01-22,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,2,1,?,Nissan,Ultima,1998
-316,46,OH,MALE,2015-01-13,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,3,NO,1,3,?,BMW,X5,2009
-317,45,IN,FEMALE,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,VA,3,YES,1,1,?,Accura,MDX,1998
-318,33,IL,FEMALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,1,0,?,Toyota,Highlander,2006
-320,37,IL,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,0,2,YES,Toyota,Corolla,2005
-321,30,IN,MALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,3,YES,0,3,YES,Dodge,RAM,2010
-322,44,IL,MALE,2015-01-02,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,?,1,2,YES,BMW,3 Series,2012
-323,50,OH,FEMALE,2015-02-26,Multi-vehicle Collision,Rear Collision,Total Loss,Police,PA,3,NO,0,2,NO,Audi,A3,2015
-325,55,IL,MALE,2015-02-07,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,YES,1,1,YES,Nissan,Pathfinder,2010
-326,49,IL,FEMALE,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,YES,0,2,?,Volkswagen,Jetta,2003
-327,47,IN,MALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,YES,0,0,?,Chevrolet,Tahoe,2014
-330,28,OH,MALE,2015-02-21,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,1,?,2,3,?,Toyota,Camry,2005
-332,25,IN,FEMALE,2015-02-16,Parked Car,?,Trivial Damage,Unknown,SC,1,NO,2,2,?,Nissan,Ultima,2005
-333,26,IL,FEMALE,2015-02-04,Parked Car,?,Trivial Damage,Unknown,VA,1,?,2,2,?,Suburu,Legacy,1995
-334,30,OH,MALE,2015-02-24,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,1,?,0,0,YES,Ford,Escape,2004
-335,31,IL,FEMALE,2015-02-01,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,0,1,YES,BMW,3 Series,2002
-336,39,OH,MALE,2015-02-05,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,NO,2,1,NO,Chevrolet,Silverado,2008
-337,37,IL,MALE,2015-01-07,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,YES,2,0,NO,Dodge,RAM,1999
-338,30,IN,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,?,1,1,YES,Saab,92x,2000
-339,35,IN,MALE,2015-01-21,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,?,1,3,?,Suburu,Forrestor,1996
-341,42,OH,FEMALE,2015-02-24,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,YES,1,3,NO,BMW,3 Series,2000
-343,47,IL,MALE,2015-01-31,Vehicle Theft,?,Minor Damage,Unknown,WV,1,?,0,3,NO,Ford,Fusion,2011
-345,28,IN,MALE,2015-02-23,Single Vehicle Collision,Side Collision,Minor Damage,Police,VA,1,YES,0,2,YES,Jeep,Wrangler,2002
-346,56,OH,MALE,2015-01-28,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,YES,2,0,YES,Suburu,Forrestor,2002
-347,43,IN,FEMALE,2015-01-14,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,1,?,2,2,YES,Mercedes,E400,2005
-348,34,IL,MALE,2015-02-03,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,YES,1,0,?,Audi,A5,2009
-350,43,OH,FEMALE,2015-01-30,Single Vehicle Collision,Side Collision,Minor Damage,Other,VA,1,YES,1,3,NO,Volkswagen,Jetta,2011
-352,26,IN,FEMALE,2015-02-03,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,1,NO,1,3,?,Honda,CRV,2011
-353,57,OH,MALE,2015-01-31,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,?,0,2,NO,Suburu,Forrestor,2000
-354,27,IN,FEMALE,2015-02-06,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,YES,0,0,?,Volkswagen,Passat,1995
-355,43,OH,FEMALE,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,1,NO,0,0,?,Nissan,Ultima,1997
-356,37,IL,FEMALE,2015-01-29,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,3,YES,1,1,YES,Ford,Fusion,1995
-357,28,OH,MALE,2015-01-07,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,YES,0,2,?,Suburu,Impreza,2010
-359,44,OH,MALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,NO,1,0,YES,Saab,93,2005
-362,30,IN,MALE,2015-02-28,Parked Car,?,Trivial Damage,Unknown,VA,1,YES,0,2,NO,Saab,93,1999
-366,36,IL,FEMALE,2015-02-03,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,?,2,0,?,Volkswagen,Passat,2015
-367,47,OH,FEMALE,2015-01-31,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,1,NO,1,0,YES,Toyota,Highlander,1996
-369,47,IL,MALE,2015-02-21,Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,4,YES,0,1,?,Dodge,RAM,2002
-370,57,IN,MALE,2015-01-30,Multi-vehicle Collision,Front Collision,Major Damage,Other,NC,3,YES,2,1,NO,Saab,93,1995
-371,41,OH,FEMALE,2015-01-31,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,2,?,1,2,YES,Honda,Accord,2015
-372,30,IL,FEMALE,2015-01-13,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,NO,1,3,?,Suburu,Forrestor,2009
-374,53,IL,MALE,2015-02-04,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,4,?,0,0,YES,Suburu,Forrestor,2012
-375,44,IL,FEMALE,2015-02-07,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,3,?,1,0,YES,Volkswagen,Jetta,2006
-376,29,OH,FEMALE,2015-01-16,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,?,1,0,NO,Dodge,Neon,2013
-377,26,OH,MALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,1,?,1,2,?,Toyota,Corolla,2009
-378,41,IN,MALE,2015-02-08,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,?,2,0,?,Audi,A3,2006
-380,41,IN,FEMALE,2015-01-13,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,?,1,3,?,Audi,A5,2014
-381,34,IL,FEMALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,YES,1,3,?,Chevrolet,Malibu,2012
-384,41,IL,FEMALE,2015-01-04,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,NO,2,2,YES,Audi,A5,2014
-385,30,OH,MALE,2015-02-02,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,1,0,YES,Ford,F150,2007
-386,38,OH,FEMALE,2015-02-23,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,1,NO,0,1,?,Mercedes,E400,2014
-387,21,IN,MALE,2015-02-10,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,?,1,2,?,Honda,Accord,2003
-388,36,OH,MALE,2015-02-16,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,3,YES,0,1,?,Nissan,Ultima,1999
-389,33,OH,FEMALE,2015-01-04,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,1,YES,1,2,?,Suburu,Legacy,2009
-390,35,IL,FEMALE,2015-01-30,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,YES,0,2,NO,Saab,92x,2005
-391,48,IN,MALE,2015-01-25,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,?,0,0,NO,Toyota,Highlander,2013
-392,36,OH,FEMALE,2015-01-22,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NY,3,NO,2,1,NO,Saab,95,2003
-393,58,OH,MALE,2015-01-01,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,3,?,1,2,?,Volkswagen,Jetta,2009
-395,31,OH,FEMALE,2015-01-15,Vehicle Theft,?,Minor Damage,Unknown,SC,1,YES,2,0,NO,Accura,MDX,2015
-396,57,IN,MALE,2015-01-06,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,NO,1,0,?,Ford,Fusion,2012
-397,46,IN,MALE,2015-02-08,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,1,YES,0,2,YES,Jeep,Grand Cherokee,2003
-398,27,OH,FEMALE,2015-02-17,Vehicle Theft,?,Trivial Damage,Police,WV,1,?,0,1,YES,Saab,95,2015
-399,33,IN,MALE,2015-01-21,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,1,NO,1,0,YES,Chevrolet,Malibu,2002
-400,53,OH,FEMALE,2015-02-09,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,2,YES,1,3,NO,Jeep,Wrangler,2012
-401,46,IL,MALE,2015-02-12,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,1,0,?,Ford,Escape,2008
-403,51,IN,MALE,2015-02-02,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,1,?,0,2,NO,Audi,A5,2004
-405,30,IN,FEMALE,2015-02-15,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,?,2,3,NO,Honda,Civic,1999
-406,41,OH,MALE,2015-02-28,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,3,?,0,3,YES,Toyota,Corolla,1999
-407,45,IN,FEMALE,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,3,?,0,0,NO,Suburu,Forrestor,2008
-408,40,OH,MALE,2015-01-06,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,OH,1,?,1,3,YES,Chevrolet,Silverado,2001
-409,45,OH,FEMALE,2015-01-19,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,NO,2,3,NO,Ford,Escape,1995
-410,43,IN,FEMALE,2015-01-17,Parked Car,?,Minor Damage,Unknown,WV,1,?,0,3,NO,BMW,M5,2006
-411,29,OH,FEMALE,2015-02-12,Parked Car,?,Trivial Damage,Police,SC,1,YES,2,0,YES,BMW,3 Series,2005
-412,44,OH,FEMALE,2015-02-11,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,2,2,NO,Chevrolet,Tahoe,2008
-413,29,IL,MALE,2015-02-21,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,3,?,1,2,YES,Jeep,Grand Cherokee,1995
-414,39,OH,MALE,2015-01-02,Vehicle Theft,?,Minor Damage,Unknown,NC,1,YES,1,2,?,Dodge,RAM,1997
-415,32,OH,FEMALE,2015-01-11,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,1,NO,1,3,NO,Suburu,Legacy,1999
-416,49,OH,FEMALE,2015-02-23,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,?,0,2,YES,Mercedes,ML350,2005
-417,37,OH,FEMALE,2015-01-28,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,1,YES,1,2,YES,Jeep,Grand Cherokee,2009
-418,44,IN,MALE,2015-02-01,Vehicle Theft,?,Trivial Damage,Police,NC,1,NO,1,3,NO,Jeep,Wrangler,2005
-419,33,IL,FEMALE,2015-02-24,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,1,NO,2,0,?,BMW,X5,2007
-420,41,IN,FEMALE,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,1,NO,2,2,?,Volkswagen,Jetta,1996
-421,37,IN,MALE,2015-01-14,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,?,1,0,NO,Toyota,Camry,1995
-422,21,IN,MALE,2015-02-05,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,1,?,0,0,?,Toyota,Corolla,2012
-423,48,IN,FEMALE,2015-01-11,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,1,?,0,0,?,Ford,Fusion,2004
-426,35,IL,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,NO,0,2,?,BMW,X5,2013
-427,31,IN,FEMALE,2015-02-25,Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,1,?,1,0,NO,Nissan,Maxima,2011
-429,58,IN,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,2,3,NO,Nissan,Maxima,2014
-430,47,IN,FEMALE,2015-02-12,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,4,YES,1,2,YES,Dodge,Neon,2001
-431,45,OH,FEMALE,2015-02-24,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,3,?,0,0,YES,Saab,92x,2005
-433,34,IL,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,?,2,3,YES,Dodge,RAM,1999
-434,32,OH,MALE,2015-02-09,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,1,?,0,3,?,Honda,CRV,1995
-435,28,OH,MALE,2015-02-15,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,1,NO,1,0,NO,Dodge,Neon,1996
-436,23,IL,MALE,2015-02-25,Single Vehicle Collision,Side Collision,Major Damage,Fire,PA,1,?,1,2,?,Suburu,Legacy,1997
-438,40,IL,FEMALE,2015-01-12,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,1,1,NO,Audi,A5,2004
-439,29,IN,MALE,2015-01-01,Parked Car,?,Trivial Damage,Police,VA,1,YES,2,1,YES,Nissan,Pathfinder,2010
-440,31,IN,MALE,2015-02-19,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,1,NO,0,2,NO,Dodge,Neon,2006
-441,50,OH,MALE,2015-01-14,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,3,NO,0,3,NO,Dodge,Neon,2008
-443,34,IN,FEMALE,2015-01-20,Parked Car,?,Minor Damage,Unknown,VA,1,NO,2,1,?,Jeep,Grand Cherokee,2002
-444,36,IN,FEMALE,2015-02-18,Parked Car,?,Minor Damage,Unknown,NC,1,NO,0,0,?,Dodge,Neon,2014
-446,37,IN,FEMALE,2015-01-16,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,1,YES,2,3,YES,Jeep,Wrangler,2005
-447,53,IL,MALE,2015-01-15,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,1,YES,2,2,NO,Chevrolet,Malibu,2009
-448,32,OH,FEMALE,2015-02-01,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,NO,1,0,?,Dodge,Neon,2013
-449,39,IL,FEMALE,2015-01-06,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,4,?,0,3,NO,BMW,X6,2007
-450,32,OH,FEMALE,2015-02-02,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,1,YES,0,1,?,Toyota,Camry,2012
-451,30,IN,FEMALE,2015-02-25,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,NO,2,0,YES,Chevrolet,Malibu,2003
-452,33,IL,FEMALE,2015-02-10,Parked Car,?,Trivial Damage,Unknown,NY,1,YES,1,0,NO,Audi,A3,1997
-453,37,IL,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,?,2,1,NO,Suburu,Forrestor,2003
-454,30,IL,FEMALE,2015-01-31,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,1,?,2,3,NO,Chevrolet,Malibu,2011
-455,43,IL,MALE,2015-02-12,Multi-vehicle Collision,Front Collision,Minor Damage,Police,WV,3,YES,2,0,NO,Ford,Escape,2007
-456,24,IN,MALE,2015-01-06,Vehicle Theft,?,Minor Damage,Police,NY,1,?,0,1,YES,Dodge,Neon,2003
-458,51,OH,FEMALE,2015-01-07,Single Vehicle Collision,Side Collision,Total Loss,Other,NC,1,YES,0,2,?,Jeep,Wrangler,1997
-459,38,IN,FEMALE,2015-02-21,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,YES,2,3,?,Accura,MDX,1995
-461,54,IL,MALE,2015-02-16,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,1,YES,0,2,NO,Honda,Accord,2001
-463,41,IL,MALE,2015-01-22,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,NO,2,0,NO,Saab,93,2013
-464,38,OH,MALE,2015-02-15,Multi-vehicle Collision,Front Collision,Total Loss,Other,SC,3,YES,2,2,?,Nissan,Ultima,2006
-465,33,IL,FEMALE,2015-01-07,Single Vehicle Collision,Rear Collision,Major Damage,Police,VA,1,?,2,1,?,BMW,M5,1998
-466,34,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,3,NO,0,1,YES,Chevrolet,Tahoe,2007
-467,56,IL,FEMALE,2015-01-06,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,?,0,0,?,Volkswagen,Passat,2007
-468,37,OH,FEMALE,2015-02-07,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,?,2,2,NO,Volkswagen,Passat,2015
-469,35,IL,FEMALE,2015-02-14,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NC,3,NO,2,2,NO,Volkswagen,Jetta,1996
-471,38,IL,MALE,2015-02-14,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,WV,3,YES,1,2,NO,Dodge,Neon,2003
-472,51,IL,MALE,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,NO,2,0,YES,BMW,X6,2000
-473,49,IL,FEMALE,2015-01-04,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,NO,1,0,NO,Nissan,Maxima,2001
-475,36,OH,FEMALE,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Police,NC,3,NO,1,1,NO,Nissan,Ultima,2015
-480,44,IL,MALE,2015-02-13,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,NO,0,2,NO,Ford,Fusion,1999
-481,21,OH,FEMALE,2015-01-14,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,PA,1,NO,0,0,?,Accura,MDX,2006
-483,40,IL,MALE,2015-01-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,2,YES,2,0,?,BMW,3 Series,2013
-484,56,OH,MALE,2015-01-30,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,1,NO,2,0,?,Jeep,Wrangler,2009
-485,28,IN,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,?,2,1,?,Nissan,Maxima,1995
-486,29,OH,MALE,2015-02-20,Single Vehicle Collision,Rear Collision,Total Loss,Fire,VA,1,NO,0,0,?,Chevrolet,Malibu,2003
-487,24,IN,FEMALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,0,0,NO,Dodge,RAM,2012
-488,46,IL,MALE,2015-02-23,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,NO,0,3,YES,Mercedes,ML350,2013
-490,33,OH,MALE,2015-02-21,Vehicle Theft,?,Minor Damage,Unknown,WV,1,YES,1,1,NO,Toyota,Corolla,2005
-491,39,IL,FEMALE,2015-01-13,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,3,YES,1,3,?,Jeep,Grand Cherokee,2007
-492,49,OH,MALE,2015-01-17,Multi-vehicle Collision,Side Collision,Major Damage,Other,NY,3,NO,0,2,NO,Saab,95,2007
-493,43,IN,FEMALE,2015-02-18,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,1,?,1,2,NO,Chevrolet,Malibu,2015
-495,46,IN,MALE,2015-01-27,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,?,0,3,?,Chevrolet,Tahoe,2013
-496,44,IL,MALE,2015-02-12,Vehicle Theft,?,Trivial Damage,Police,NY,1,?,1,2,NO,Accura,MDX,1999
-497,32,OH,MALE,2015-01-17,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,4,?,1,1,NO,Accura,MDX,2002
-499,49,IN,FEMALE,2015-01-21,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,1,YES,1,1,YES,Saab,95,2013
-500,29,OH,FEMALE,2015-01-01,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,?,2,3,YES,Honda,CRV,2003
-501,39,IN,MALE,2015-02-18,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,NO,0,2,?,Mercedes,ML350,2015
-502,38,IL,FEMALE,2015-02-04,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,YES,1,1,NO,Nissan,Ultima,2005
-503,48,IL,FEMALE,2015-01-09,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,?,1,0,?,Accura,TL,1999
-505,46,IL,MALE,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,2,1,NO,Jeep,Grand Cherokee,1998
-506,24,IL,FEMALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,NO,2,1,?,Nissan,Ultima,2011
-507,29,IL,MALE,2015-01-30,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,NO,2,2,YES,Accura,MDX,2005
-508,24,IN,FEMALE,2015-02-20,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,?,0,1,NO,Honda,CRV,2003
-509,30,IL,MALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,3,YES,2,0,NO,Mercedes,E400,2002
-510,38,OH,MALE,2015-01-31,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,1,NO,2,0,?,Audi,A3,2015
-511,48,OH,FEMALE,2015-02-17,Parked Car,?,Trivial Damage,Police,NY,1,?,2,3,NO,Volkswagen,Jetta,2003
-512,34,IL,MALE,2015-01-24,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,?,2,1,YES,Nissan,Pathfinder,1997
-514,60,IL,FEMALE,2015-01-09,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,1,NO,0,0,NO,Honda,Civic,2001
-515,48,OH,FEMALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,?,0,3,YES,Mercedes,E400,2001
-516,27,IN,FEMALE,2015-01-17,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,?,1,2,YES,Chevrolet,Silverado,2004
-518,41,IL,MALE,2015-01-14,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,NO,1,0,NO,Jeep,Grand Cherokee,2009
-519,43,IL,FEMALE,2015-02-02,Vehicle Theft,?,Trivial Damage,Police,NY,1,NO,0,1,?,Chevrolet,Tahoe,2014
-520,43,IN,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,NO,0,2,?,Accura,RSX,2004
-521,26,IL,FEMALE,2015-01-25,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,YES,1,3,?,Audi,A5,2003
-522,42,IN,MALE,2015-02-13,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,4,NO,0,2,YES,Honda,Civic,2005
-523,30,OH,FEMALE,2015-02-20,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,YES,2,1,YES,Ford,F150,2004
-524,46,OH,FEMALE,2015-01-08,Parked Car,?,Minor Damage,Police,NC,1,NO,1,2,?,Toyota,Corolla,2004
-525,26,IL,FEMALE,2015-02-28,Vehicle Theft,?,Trivial Damage,Police,SC,1,YES,1,1,?,Jeep,Grand Cherokee,1997
-526,45,IL,FEMALE,2015-02-12,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,NO,2,0,YES,Suburu,Legacy,2013
-527,47,IN,FEMALE,2015-01-06,Vehicle Theft,?,Trivial Damage,Police,SC,1,NO,1,1,NO,Ford,F150,2013
-528,54,IL,FEMALE,2015-02-15,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,?,0,1,NO,Jeep,Grand Cherokee,2010
-530,48,IL,FEMALE,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,?,2,3,YES,Chevrolet,Malibu,1995
-531,53,IN,FEMALE,2015-01-26,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,1,?,0,0,NO,Accura,MDX,2000
-532,38,IL,MALE,2015-01-25,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,3,NO,1,3,YES,Mercedes,C300,2012
-533,49,IN,MALE,2015-01-18,Vehicle Theft,?,Minor Damage,Unknown,SC,1,NO,0,3,NO,Mercedes,ML350,2009
-534,42,OH,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,3,NO,1,2,YES,Nissan,Pathfinder,2006
-536,46,IL,MALE,2015-01-10,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,3,?,1,3,YES,Volkswagen,Jetta,2004
-537,55,IL,FEMALE,2015-01-23,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,YES,2,1,NO,Nissan,Ultima,1995
-539,44,IN,FEMALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,1,NO,0,2,YES,BMW,X5,2015
-540,30,OH,FEMALE,2015-01-06,Single Vehicle Collision,Front Collision,Major Damage,Other,VA,1,?,2,2,NO,Volkswagen,Jetta,2011
-541,41,OH,FEMALE,2015-02-18,Parked Car,?,Trivial Damage,Police,NC,1,?,0,2,YES,Mercedes,E400,2013
-542,31,IL,FEMALE,2015-02-17,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,3,YES,1,3,NO,Saab,92x,2014
-543,25,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,YES,0,0,YES,Suburu,Impreza,1996
-545,29,IN,FEMALE,2015-02-03,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,?,1,3,NO,Suburu,Forrestor,2003
-546,43,IN,MALE,2015-01-07,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,VA,1,?,0,2,?,Audi,A5,2002
-548,38,IN,MALE,2015-01-13,Vehicle Theft,?,Minor Damage,Police,VA,1,?,1,2,NO,Accura,TL,2008
-549,29,OH,MALE,2015-02-28,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,?,2,1,?,BMW,X6,1996
-550,37,IN,MALE,2015-01-16,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NC,3,?,0,3,NO,Volkswagen,Jetta,1999
-551,53,OH,MALE,2015-02-01,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,YES,0,1,NO,Accura,RSX,2001
-553,53,IL,FEMALE,2015-02-16,Parked Car,?,Trivial Damage,Police,NC,1,YES,2,2,NO,Honda,CRV,2013
-554,40,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,YES,1,2,YES,Saab,95,2013
-556,35,IN,MALE,2015-01-31,Vehicle Theft,?,Trivial Damage,Police,WV,1,?,2,3,YES,Ford,F150,2011
-557,26,IL,MALE,2015-02-13,Vehicle Theft,?,Minor Damage,Police,NC,1,NO,0,2,YES,Accura,TL,2004
-559,38,IN,FEMALE,2015-01-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,?,1,0,?,Toyota,Camry,2011
-560,49,IN,MALE,2015-02-04,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,YES,1,1,YES,Chevrolet,Malibu,2010
-562,27,IN,FEMALE,2015-02-26,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,?,1,3,?,Ford,Fusion,2008
-563,39,IN,FEMALE,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,1,YES,0,0,?,Dodge,RAM,1997
-564,33,IN,FEMALE,2015-02-15,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,VA,4,?,2,3,YES,Jeep,Grand Cherokee,2002
-565,50,OH,FEMALE,2015-01-14,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,2,2,YES,Saab,92x,2002
-566,30,IN,FEMALE,2015-01-12,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,NO,2,0,YES,Toyota,Highlander,2010
-568,42,IN,MALE,2015-01-15,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,YES,1,1,NO,Chevrolet,Malibu,2007
-569,35,IL,MALE,2015-02-24,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,NO,1,3,YES,BMW,3 Series,2008
-570,33,OH,MALE,2015-02-07,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,3,NO,0,1,NO,Volkswagen,Jetta,1998
-571,39,OH,FEMALE,2015-02-22,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,NO,0,2,YES,Jeep,Wrangler,2010
-572,33,OH,FEMALE,2015-01-19,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,NO,2,3,?,Dodge,RAM,2014
-575,40,IN,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,YES,0,2,?,Audi,A3,2008
-576,46,OH,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,?,2,2,NO,BMW,M5,2012
-578,52,IN,MALE,2015-02-02,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,2,YES,1,3,YES,Toyota,Highlander,2003
-580,45,IL,MALE,2015-01-04,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,1,NO,2,0,YES,Ford,Fusion,2006
-581,31,IL,MALE,2015-02-21,Multi-vehicle Collision,Side Collision,Major Damage,Other,NC,4,YES,2,0,?,Audi,A5,1999
-582,28,OH,FEMALE,2015-01-23,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,2,YES,2,1,NO,Ford,Fusion,2010
-583,41,OH,MALE,2015-02-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,3,NO,0,1,?,Toyota,Corolla,2009
-584,27,IL,FEMALE,2015-01-23,Parked Car,?,Trivial Damage,Police,WV,1,?,1,2,NO,Nissan,Pathfinder,2007
-585,35,IL,MALE,2015-02-10,Vehicle Theft,?,Minor Damage,Unknown,OH,1,?,1,3,NO,Chevrolet,Malibu,2000
-586,30,IN,MALE,2015-01-10,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,1,3,YES,Volkswagen,Jetta,2013
-588,64,IN,MALE,2015-02-21,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,1,NO,2,3,NO,Mercedes,ML350,2002
-589,25,IL,FEMALE,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,2,?,2,3,YES,Saab,93,2011
-590,40,OH,FEMALE,2015-02-28,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,PA,3,?,2,1,YES,Ford,Escape,1999
-592,41,IN,FEMALE,2015-01-11,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,NO,2,0,?,Chevrolet,Tahoe,1995
-594,38,OH,MALE,2015-01-09,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,3,NO,2,1,YES,Mercedes,ML350,1996
-595,36,IN,MALE,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Police,NC,1,YES,1,2,YES,Ford,Escape,2001
-596,41,IL,FEMALE,2015-02-26,Parked Car,?,Trivial Damage,Police,WV,1,?,2,0,NO,Dodge,RAM,2003
-598,41,IL,FEMALE,2015-01-04,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,?,1,3,YES,Saab,92x,2007
-599,38,OH,FEMALE,2015-02-19,Multi-vehicle Collision,Front Collision,Major Damage,Police,WV,3,NO,1,3,?,Saab,93,2003
-601,31,IN,MALE,2015-01-24,Single Vehicle Collision,Front Collision,Minor Damage,Other,NC,1,?,2,0,?,Ford,Escape,1997
-603,27,IN,FEMALE,2015-01-13,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,2,3,?,Toyota,Camry,2000
-604,27,OH,MALE,2015-02-28,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,2,?,0,1,YES,Toyota,Highlander,2008
-605,44,OH,MALE,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NY,1,NO,1,0,NO,Accura,MDX,1997
-606,27,OH,FEMALE,2015-02-05,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,1,?,0,3,?,Audi,A3,2010
-607,39,IN,FEMALE,2015-01-01,Parked Car,?,Minor Damage,Police,NY,1,YES,0,0,?,Accura,RSX,2003
-608,46,OH,FEMALE,2015-01-06,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,4,NO,2,1,?,Volkswagen,Jetta,1996
-609,57,IL,MALE,2015-02-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,NO,2,0,YES,Dodge,Neon,1995
-610,46,IN,MALE,2015-02-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,3,NO,1,0,NO,Toyota,Corolla,2006
-611,30,IL,MALE,2015-02-16,Multi-vehicle Collision,Front Collision,Minor Damage,Other,WV,3,?,2,1,?,Chevrolet,Tahoe,2005
-612,42,IL,FEMALE,2015-02-25,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,1,?,1,2,YES,BMW,X5,1998
-613,27,IN,MALE,2015-01-21,Multi-vehicle Collision,Front Collision,Minor Damage,Police,SC,3,NO,0,2,YES,Volkswagen,Passat,2003
-614,33,IL,MALE,2015-01-28,Parked Car,?,Minor Damage,Police,NY,1,?,0,1,NO,Toyota,Camry,2010
-615,34,IL,MALE,2015-02-27,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,3,?,1,0,NO,Nissan,Pathfinder,2000
-617,26,IL,MALE,2015-01-18,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,2,NO,2,2,?,Volkswagen,Passat,2010
-618,28,OH,MALE,2015-01-13,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,?,1,0,?,Jeep,Wrangler,2006
-619,36,IL,FEMALE,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,NO,0,3,?,Saab,93,2006
-621,27,OH,FEMALE,2015-02-13,Single Vehicle Collision,Side Collision,Minor Damage,Police,NY,1,?,2,1,YES,Ford,F150,1996
-622,28,OH,MALE,2015-02-13,Parked Car,?,Trivial Damage,Police,WV,1,?,2,0,?,Jeep,Grand Cherokee,2012
-624,31,OH,MALE,2015-01-13,Parked Car,?,Minor Damage,Unknown,SC,1,YES,1,0,NO,Nissan,Ultima,1996
-625,60,IN,FEMALE,2015-02-14,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NC,1,YES,1,1,NO,Mercedes,E400,1999
-626,50,IL,MALE,2015-01-20,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,4,YES,1,2,NO,Dodge,Neon,2010
-627,40,IN,MALE,2015-01-18,Parked Car,?,Trivial Damage,Police,WV,1,?,0,2,NO,Toyota,Camry,2010
-630,35,IN,FEMALE,2015-01-01,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,?,2,1,NO,Chevrolet,Malibu,2008
-631,37,OH,FEMALE,2015-01-29,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,2,NO,1,2,NO,Accura,MDX,2004
-632,45,OH,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,1,NO,0,2,NO,Accura,MDX,2006
-634,35,IL,FEMALE,2015-02-20,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,YES,0,3,YES,Toyota,Camry,2001
-636,28,OH,MALE,2015-01-18,Vehicle Theft,?,Minor Damage,Police,WV,1,YES,2,1,YES,Saab,95,1999
-637,45,IL,MALE,2015-01-09,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,0,2,?,Suburu,Impreza,1997
-639,48,IL,MALE,2015-02-13,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,2,?,1,1,?,Nissan,Ultima,2014
-640,38,OH,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,1,?,2,3,YES,Dodge,RAM,2005
-641,55,OH,FEMALE,2015-02-17,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,3,NO,0,3,NO,Suburu,Legacy,1998
-642,32,IL,FEMALE,2015-01-15,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,1,?,2,0,NO,Saab,92x,1995
-644,40,IL,MALE,2015-02-28,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,?,2,2,?,Volkswagen,Jetta,2009
-645,43,OH,FEMALE,2015-02-16,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,YES,2,1,YES,Honda,CRV,2014
-646,36,IN,MALE,2015-02-09,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NY,3,NO,2,3,?,Dodge,Neon,2004
-647,40,IL,MALE,2015-01-24,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,NO,1,2,NO,Suburu,Forrestor,2003
-648,32,OH,MALE,2015-02-11,Parked Car,?,Trivial Damage,Unknown,NY,1,?,0,2,?,Honda,CRV,2012
-651,27,IN,FEMALE,2015-02-20,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,YES,1,1,NO,Jeep,Wrangler,2008
-653,29,OH,FEMALE,2015-02-21,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,NO,1,3,YES,Jeep,Wrangler,1995
-654,20,IN,FEMALE,2015-02-01,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,1,3,YES,Audi,A5,2000
-655,34,OH,MALE,2015-02-25,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,YES,1,1,YES,Ford,F150,2001
-656,32,OH,MALE,2015-02-24,Vehicle Theft,?,Trivial Damage,Police,SC,1,?,1,3,NO,Ford,F150,2010
-658,43,OH,FEMALE,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NC,1,?,2,0,?,Nissan,Maxima,2013
-659,32,IL,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,1,?,0,3,YES,Suburu,Legacy,2010
-660,57,IN,MALE,2015-02-14,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,3,NO,0,0,NO,Jeep,Wrangler,2012
-661,48,OH,MALE,2015-02-26,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,1,YES,1,3,?,Dodge,Neon,2006
-662,37,OH,FEMALE,2015-01-30,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,YES,1,0,?,Honda,CRV,2009
-663,33,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,3,NO,0,1,NO,Saab,95,1999
-664,46,OH,FEMALE,2015-02-27,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,?,0,1,YES,Accura,TL,2000
-667,40,OH,MALE,2015-02-27,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,YES,1,1,NO,Audi,A5,1997
-668,47,IN,MALE,2015-02-02,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,1,NO,2,2,YES,Toyota,Camry,2010
-669,57,OH,MALE,2015-01-17,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,3,NO,1,3,NO,Nissan,Maxima,2003
-670,36,IN,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,3,?,1,3,?,Jeep,Wrangler,2014
-671,43,IL,MALE,2015-01-20,Single Vehicle Collision,Front Collision,Minor Damage,Fire,SC,1,NO,0,3,?,Ford,F150,2002
-672,25,IN,FEMALE,2015-02-05,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,YES,1,0,NO,Dodge,RAM,2000
-673,28,IL,FEMALE,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,1,?,0,1,?,Dodge,Neon,2011
-674,38,OH,MALE,2015-02-24,Vehicle Theft,?,Trivial Damage,Police,VA,1,NO,1,1,YES,Toyota,Corolla,1995
-675,29,IL,MALE,2015-02-21,Vehicle Theft,?,Trivial Damage,Police,SC,1,NO,0,2,?,Jeep,Wrangler,2008
-676,29,OH,MALE,2015-02-11,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,YES,2,0,NO,Saab,93,2006
-677,31,IN,MALE,2015-01-24,Parked Car,?,Trivial Damage,Unknown,NY,1,YES,1,2,?,Saab,93,2003
-678,45,IL,FEMALE,2015-01-06,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,3,?,0,2,?,Ford,Escape,2010
-679,30,OH,FEMALE,2015-01-15,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,3,NO,2,2,NO,Dodge,Neon,1997
-680,38,IN,MALE,2015-02-22,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,?,2,2,YES,Accura,TL,2001
-681,38,IL,MALE,2015-01-21,Parked Car,?,Trivial Damage,Police,NC,1,YES,0,0,NO,Honda,CRV,2015
-682,27,OH,MALE,2015-02-03,Parked Car,?,Trivial Damage,Police,SC,1,NO,0,3,NO,Volkswagen,Passat,2009
-685,50,OH,MALE,2015-01-14,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,1,NO,2,0,?,Chevrolet,Silverado,2008
-686,35,IN,FEMALE,2015-02-02,Parked Car,?,Trivial Damage,Unknown,NY,1,NO,0,1,NO,Saab,92x,1998
-687,41,IL,MALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,3,?,0,2,?,Saab,95,1999
-688,47,IN,MALE,2015-01-15,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,YES,1,3,YES,Audi,A5,2002
-689,42,OH,MALE,2015-02-24,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,1,NO,2,3,?,Saab,92x,1996
-690,41,IL,FEMALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,YES,2,2,NO,BMW,X6,1999
-692,35,IN,MALE,2015-02-04,Parked Car,?,Minor Damage,Police,WV,1,YES,1,1,NO,Jeep,Grand Cherokee,2005
-693,36,OH,MALE,2015-01-25,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,NO,2,0,YES,Ford,Escape,1996
-694,30,OH,FEMALE,2015-02-25,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,?,0,0,YES,Audi,A3,2013
-695,45,OH,FEMALE,2015-02-27,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,2,1,NO,Honda,Accord,2006
-696,36,OH,MALE,2015-02-11,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,1,?,2,1,YES,Volkswagen,Jetta,2006
-697,37,OH,FEMALE,2015-01-04,Single Vehicle Collision,Rear Collision,Major Damage,Other,VA,1,?,2,3,?,Nissan,Maxima,2002
-698,31,IN,FEMALE,2015-01-26,Vehicle Theft,?,Trivial Damage,Police,SC,1,YES,1,0,NO,Mercedes,E400,2002
-702,57,IL,MALE,2015-02-05,Parked Car,?,Minor Damage,Unknown,NY,1,YES,1,3,?,Volkswagen,Passat,2000
-706,43,IN,FEMALE,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,YES,2,3,YES,Nissan,Ultima,1997
-711,30,IL,MALE,2015-02-07,Parked Car,?,Minor Damage,Unknown,SC,1,NO,2,1,NO,Jeep,Wrangler,2015
-714,61,IL,FEMALE,2015-02-18,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,YES,0,2,?,Mercedes,E400,1998
-716,28,OH,MALE,2015-01-22,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,NO,2,2,YES,Dodge,Neon,1998
-717,28,OH,MALE,2015-02-23,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,NO,0,3,YES,Accura,TL,2000
-718,44,OH,FEMALE,2015-01-15,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,YES,0,0,YES,Audi,A3,2002
-719,43,IN,MALE,2015-02-20,Vehicle Theft,?,Trivial Damage,Police,PA,1,NO,1,0,YES,Volkswagen,Jetta,2003
-720,58,IN,MALE,2015-01-19,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,YES,0,0,NO,Dodge,RAM,2004
-721,34,OH,MALE,2015-01-10,Parked Car,?,Trivial Damage,Police,NY,1,?,1,3,YES,Dodge,RAM,2015
-723,29,OH,MALE,2015-02-12,Parked Car,?,Minor Damage,Police,OH,1,NO,2,3,NO,Accura,MDX,2005
-724,43,IL,MALE,2015-01-23,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,NO,0,0,YES,Chevrolet,Tahoe,2007
-725,39,OH,FEMALE,2015-02-13,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,3,?,2,0,YES,Dodge,Neon,1997
-726,43,OH,MALE,2015-01-27,Parked Car,?,Minor Damage,Police,NC,1,NO,1,3,YES,Chevrolet,Tahoe,2011
-730,31,IN,FEMALE,2015-01-20,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,1,NO,0,0,NO,Suburu,Forrestor,1997
-731,43,IN,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,1,?,2,2,YES,Toyota,Highlander,2006
-732,26,OH,FEMALE,2015-02-23,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,YES,2,3,NO,Saab,92x,2007
-733,34,IN,FEMALE,2015-02-04,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,1,?,0,1,NO,Dodge,RAM,1999
-734,43,IN,MALE,2015-02-09,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,NO,2,1,?,Accura,RSX,2006
-735,45,IL,FEMALE,2015-02-18,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,3,NO,1,1,NO,Jeep,Wrangler,2015
-736,48,OH,MALE,2015-02-10,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,NO,2,1,?,Volkswagen,Jetta,2001
-737,33,IL,FEMALE,2015-01-20,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,3,?,2,3,YES,Nissan,Pathfinder,2006
-738,42,OH,FEMALE,2015-01-27,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,?,0,0,YES,Honda,Civic,1998
-739,34,IN,MALE,2015-01-21,Vehicle Theft,?,Minor Damage,Unknown,WV,1,YES,0,3,NO,Chevrolet,Malibu,2003
-740,51,IN,FEMALE,2015-02-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,WV,3,?,1,3,?,Suburu,Legacy,2007
-741,33,OH,MALE,2015-02-26,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NC,1,NO,1,2,NO,BMW,X5,2004
-746,39,OH,FEMALE,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,YES,0,3,NO,Audi,A3,2010
-747,31,IL,FEMALE,2015-02-13,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,NO,1,1,YES,Dodge,RAM,1995
-748,44,IL,FEMALE,2015-02-15,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,3,YES,0,3,?,Jeep,Wrangler,2010
-749,38,IL,FEMALE,2015-02-14,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,1,NO,0,1,?,Ford,F150,2003
-750,31,OH,FEMALE,2015-01-31,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,2,1,NO,Mercedes,E400,1995
-751,40,IL,FEMALE,2015-01-28,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,NO,0,0,YES,Accura,TL,2001
-752,55,IL,MALE,2015-03-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,4,YES,0,2,NO,Chevrolet,Tahoe,1997
-753,58,IN,MALE,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,?,1,1,YES,Mercedes,E400,2004
-754,35,IN,FEMALE,2015-02-25,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,3,YES,2,0,?,Nissan,Maxima,2012
-755,35,IL,MALE,2015-01-30,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,3,?,0,0,?,Dodge,Neon,1995
-756,32,IL,MALE,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,?,2,3,YES,Jeep,Wrangler,1996
-757,36,OH,MALE,2015-02-08,Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,1,YES,2,3,NO,Accura,MDX,1995
-758,60,IN,MALE,2015-01-13,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,1,NO,0,2,NO,Saab,93,2005
-759,35,OH,FEMALE,2015-01-18,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,1,?,0,3,?,Nissan,Maxima,1997
-760,31,OH,FEMALE,2015-03-01,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,3,?,2,1,?,Nissan,Maxima,1997
-764,50,IN,FEMALE,2015-01-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,YES,1,3,NO,Mercedes,C300,2012
-765,37,OH,FEMALE,2015-01-17,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,?,2,0,YES,Suburu,Forrestor,2003
-766,39,IL,FEMALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,3,YES,2,1,?,Suburu,Impreza,2007
-767,46,IL,FEMALE,2015-02-14,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,YES,0,0,NO,Jeep,Wrangler,2001
-768,61,IL,FEMALE,2015-01-07,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,1,YES,2,0,YES,Suburu,Forrestor,2007
-769,37,IL,MALE,2015-02-02,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,?,2,1,YES,Audi,A5,2005
-770,46,IL,FEMALE,2015-01-12,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,NO,1,0,NO,Volkswagen,Jetta,2011
-771,39,IN,MALE,2015-01-01,Single Vehicle Collision,Side Collision,Minor Damage,Fire,VA,1,?,1,1,NO,Chevrolet,Silverado,1995
-772,37,OH,FEMALE,2015-02-22,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,1,?,1,3,YES,Toyota,Highlander,2000
-773,33,IN,FEMALE,2015-01-16,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,3,YES,0,1,YES,Saab,93,1995
-774,28,IL,MALE,2015-01-28,Multi-vehicle Collision,Side Collision,Minor Damage,Police,WV,4,NO,1,0,YES,Toyota,Camry,2006
-775,32,IN,FEMALE,2015-01-23,Parked Car,?,Trivial Damage,Police,WV,1,YES,1,2,?,Audi,A3,2002
-776,61,IN,FEMALE,2015-02-25,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,NO,2,1,NO,Volkswagen,Passat,2003
-777,40,IN,FEMALE,2015-02-11,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,3,?,0,0,YES,Dodge,Neon,2003
-778,38,IL,MALE,2015-01-03,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,YES,2,2,YES,Volkswagen,Jetta,2003
-779,61,IN,FEMALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,3,?,2,1,NO,Nissan,Ultima,2005
-780,61,IN,FEMALE,2015-01-18,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,1,?,1,2,YES,Suburu,Legacy,2009
-781,29,IN,FEMALE,2015-01-04,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NC,1,NO,0,3,?,Dodge,RAM,2009
-782,41,OH,FEMALE,2015-01-20,Vehicle Theft,?,Minor Damage,Unknown,NY,1,NO,0,1,?,Chevrolet,Malibu,2011
-783,33,IL,MALE,2015-02-12,Parked Car,?,Trivial Damage,Unknown,NY,1,NO,0,1,NO,Nissan,Ultima,2003
-786,27,IL,MALE,2015-02-02,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,4,YES,0,0,NO,Toyota,Camry,2012
-787,30,IN,MALE,2015-02-01,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,3,NO,1,2,?,Dodge,Neon,2007
-789,34,IN,FEMALE,2015-01-16,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,1,?,0,0,YES,Volkswagen,Passat,2012
-790,39,OH,MALE,2015-02-20,Parked Car,?,Trivial Damage,Police,SC,1,YES,2,1,YES,Nissan,Pathfinder,2011
-792,39,OH,MALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Total Loss,Police,VA,3,YES,0,3,NO,Suburu,Legacy,2015
-793,32,IN,FEMALE,2015-02-25,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NY,1,YES,0,1,NO,Toyota,Camry,2003
-794,48,IL,MALE,2015-01-24,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,NO,2,0,NO,Saab,95,1995
-795,47,IN,MALE,2015-01-16,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,?,0,3,YES,Jeep,Grand Cherokee,1999
-797,33,OH,FEMALE,2015-01-04,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NC,1,YES,0,1,YES,Toyota,Corolla,2015
-798,24,OH,FEMALE,2015-02-02,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,1,NO,2,0,?,Toyota,Camry,1999
-799,24,IN,FEMALE,2015-02-01,Parked Car,?,Trivial Damage,Unknown,VA,1,YES,0,1,?,Audi,A3,1998
-800,30,IL,MALE,2015-02-14,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,YES,0,3,?,Accura,MDX,1999
-801,36,IN,FEMALE,2015-02-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,?,2,0,YES,Chevrolet,Tahoe,2000
-802,34,IN,FEMALE,2015-01-22,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,?,2,2,NO,Chevrolet,Malibu,2009
-804,46,OH,MALE,2015-02-03,Parked Car,?,Trivial Damage,Police,WV,1,YES,2,3,YES,Toyota,Camry,1995
-805,42,IN,MALE,2015-01-20,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,NO,0,1,NO,Saab,95,2013
-806,37,IN,MALE,2015-01-01,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,1,YES,0,1,YES,Nissan,Pathfinder,2005
-807,38,IN,FEMALE,2015-02-02,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,3,NO,2,3,?,Audi,A3,1995
-808,34,IL,FEMALE,2015-01-23,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,1,?,1,2,NO,Audi,A3,2009
-810,43,IL,FEMALE,2015-01-02,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,3,NO,0,2,YES,Ford,Fusion,2012
-811,30,OH,FEMALE,2015-02-25,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,0,3,YES,Chevrolet,Malibu,2013
-813,48,OH,FEMALE,2015-02-09,Vehicle Theft,?,Minor Damage,Unknown,WV,1,?,1,2,NO,Accura,MDX,2013
-814,25,IL,FEMALE,2015-01-16,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,VA,3,NO,0,1,YES,Nissan,Maxima,2010
-815,38,IN,FEMALE,2015-02-01,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,?,0,1,NO,Volkswagen,Passat,2008
-816,30,IL,FEMALE,2015-02-10,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,4,?,0,0,?,Nissan,Pathfinder,2006
-818,41,IL,MALE,2015-01-01,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,2,0,?,Chevrolet,Malibu,2009
-819,47,IN,MALE,2015-02-23,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,1,YES,0,3,?,Dodge,RAM,2009
-820,29,IL,MALE,2015-01-28,Vehicle Theft,?,Trivial Damage,Unknown,VA,1,?,0,0,?,Audi,A5,1999
-821,34,IN,FEMALE,2015-02-22,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,?,0,0,?,Nissan,Pathfinder,2011
-822,53,OH,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,WV,1,?,2,3,YES,Honda,Civic,2006
-824,37,IN,FEMALE,2015-01-25,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,1,YES,1,1,NO,Ford,F150,2001
-825,49,IL,FEMALE,2015-01-10,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,1,?,1,1,?,Volkswagen,Passat,2002
-826,32,OH,FEMALE,2015-01-28,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,?,0,1,?,Suburu,Impreza,2006
-827,24,OH,FEMALE,2015-02-18,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,NO,1,1,?,Suburu,Forrestor,1997
-828,28,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,NO,2,2,NO,Audi,A5,1995
-830,36,IL,FEMALE,2015-01-10,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,1,NO,2,0,NO,Dodge,Neon,2009
-832,46,IN,FEMALE,2015-01-16,Vehicle Theft,?,Minor Damage,Police,VA,1,YES,1,3,YES,Nissan,Pathfinder,2007
-833,28,IN,FEMALE,2015-01-01,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,4,NO,0,1,?,Ford,F150,2011
-834,32,OH,MALE,2015-01-07,Vehicle Theft,?,Minor Damage,Police,SC,1,YES,1,1,YES,Suburu,Legacy,2005
-835,55,IN,MALE,2015-02-17,Vehicle Theft,?,Minor Damage,Unknown,NC,1,?,0,2,?,Mercedes,ML350,2015
-836,43,IN,FEMALE,2015-02-26,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,1,NO,0,1,YES,Nissan,Pathfinder,2006
-839,43,OH,MALE,2015-03-01,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,1,NO,2,2,YES,Dodge,Neon,2011
-840,44,OH,FEMALE,2015-02-13,Parked Car,?,Trivial Damage,Unknown,SC,1,NO,0,3,?,Chevrolet,Malibu,1998
-841,39,OH,MALE,2015-01-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,?,1,0,YES,Saab,95,1999
-842,44,IN,FEMALE,2015-02-05,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,2,1,?,BMW,X5,2000
-844,47,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,3,NO,1,3,?,Jeep,Wrangler,2014
-846,42,IN,MALE,2015-01-23,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,1,NO,0,3,?,Toyota,Corolla,2005
-847,43,OH,FEMALE,2015-01-11,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,YES,1,3,?,Jeep,Wrangler,2010
-849,53,IL,MALE,2015-02-24,Parked Car,?,Trivial Damage,Police,NC,1,NO,0,3,NO,Saab,93,2001
-850,21,IN,MALE,2015-01-19,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,YES,2,0,YES,Accura,RSX,2014
-852,47,OH,FEMALE,2015-03-01,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,NO,2,3,NO,Mercedes,ML350,2000
-853,46,OH,MALE,2015-01-21,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,NO,1,3,YES,Nissan,Pathfinder,1996
-854,36,IN,FEMALE,2015-02-28,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,NO,2,2,?,Saab,95,2008
-855,36,IN,MALE,2015-01-26,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,?,1,3,YES,Audi,A3,2015
-856,45,OH,MALE,2015-01-31,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,3,?,0,1,NO,Suburu,Impreza,2012
-857,46,OH,MALE,2015-02-20,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,NO,0,1,NO,Toyota,Camry,2005
-858,43,OH,FEMALE,2015-02-17,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,?,2,3,YES,Nissan,Pathfinder,2000
-859,30,IL,MALE,2015-02-02,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,NO,2,3,?,Suburu,Legacy,2005
-860,42,IN,FEMALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,NO,1,2,YES,Accura,MDX,1999
-861,40,IL,FEMALE,2015-02-11,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,3,YES,0,2,YES,Nissan,Pathfinder,2006
-862,44,OH,FEMALE,2015-01-25,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,YES,2,0,?,Suburu,Impreza,2009
-863,26,IL,FEMALE,2015-02-23,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,3,?,0,2,?,Jeep,Wrangler,1996
-864,53,IL,FEMALE,2015-01-29,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,1,YES,2,1,?,Toyota,Camry,2000
-866,33,IN,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,NO,1,0,NO,Accura,TL,2014
-867,39,OH,FEMALE,2015-02-14,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,2,NO,0,3,YES,Dodge,RAM,2008
-870,43,IN,FEMALE,2015-02-12,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,?,1,0,?,Honda,CRV,2011
-871,34,IN,FEMALE,2015-01-28,Parked Car,?,Minor Damage,Police,WV,1,NO,2,0,YES,Jeep,Wrangler,2013
-873,49,IL,FEMALE,2015-01-19,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,?,0,2,YES,Chevrolet,Malibu,2007
-874,39,IN,FEMALE,2015-01-19,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,1,YES,1,0,YES,Mercedes,ML350,1995
-876,39,IN,FEMALE,2015-02-16,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,1,2,?,Saab,93,2000
-877,57,IN,MALE,2015-01-08,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,3,?,2,3,?,Saab,93,2008
-879,47,IL,MALE,2015-02-18,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,1,YES,2,1,?,Mercedes,E400,2002
-882,30,IL,FEMALE,2015-02-02,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,?,0,0,NO,BMW,3 Series,2011
-884,48,IL,MALE,2015-02-04,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,NO,2,2,?,BMW,M5,1998
-885,45,IL,MALE,2015-02-27,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,3,YES,0,0,?,BMW,3 Series,2004
-886,30,IL,FEMALE,2015-02-09,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,1,NO,1,0,YES,Audi,A3,2002
-887,55,IN,MALE,2015-02-19,Parked Car,?,Minor Damage,Unknown,VA,1,NO,0,0,NO,Honda,Civic,2002
-888,55,OH,FEMALE,2015-01-12,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,YES,1,2,YES,Accura,TL,2011
-889,38,IL,FEMALE,2015-02-07,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,NO,2,0,NO,Volkswagen,Jetta,2007
-890,34,IN,FEMALE,2015-01-13,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,1,YES,2,0,NO,Suburu,Legacy,2012
-891,60,IL,FEMALE,2015-01-18,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,2,?,0,3,?,Saab,95,2006
-892,35,IL,MALE,2015-01-15,Vehicle Theft,?,Trivial Damage,Unknown,WV,1,?,2,1,NO,Jeep,Wrangler,2001
-893,33,OH,MALE,2015-02-23,Vehicle Theft,?,Minor Damage,Unknown,NC,1,YES,0,0,?,Dodge,Neon,2011
-894,31,IN,MALE,2015-02-17,Parked Car,?,Minor Damage,Unknown,NY,1,?,1,3,?,Suburu,Impreza,2000
-896,45,IN,MALE,2015-01-18,Parked Car,?,Trivial Damage,Police,SC,1,NO,0,3,YES,Saab,92x,2008
-897,39,IL,FEMALE,2015-01-17,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,NO,2,0,?,Jeep,Wrangler,2010
-898,43,OH,FEMALE,2015-02-25,Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,1,NO,0,1,NO,Chevrolet,Malibu,1998
-899,34,OH,FEMALE,2015-01-06,Vehicle Theft,?,Minor Damage,Unknown,NC,1,YES,1,3,?,Saab,92x,1998
-900,33,OH,MALE,2015-02-26,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,YES,0,3,NO,Mercedes,C300,2000
-901,21,IN,FEMALE,2015-02-11,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,1,YES,0,0,NO,Nissan,Pathfinder,1998
-902,28,IL,MALE,2015-02-13,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,NO,2,1,NO,Honda,Accord,1997
-903,30,IN,MALE,2015-01-10,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,YES,2,3,NO,Volkswagen,Jetta,1996
-904,27,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,3,YES,2,1,YES,Saab,95,2014
-906,43,OH,MALE,2015-01-09,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,3,NO,2,0,YES,BMW,X5,2011
-907,53,OH,FEMALE,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,?,1,2,?,Saab,92x,2005
-908,44,OH,MALE,2015-02-04,Vehicle Theft,?,Minor Damage,Police,WV,1,YES,1,0,?,Honda,Civic,2010
-909,38,IN,FEMALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,3,?,0,2,NO,Jeep,Wrangler,2010
-910,48,IL,FEMALE,2015-02-27,Single Vehicle Collision,Side Collision,Minor Damage,Police,PA,1,NO,1,2,YES,Nissan,Pathfinder,2012
-911,26,IN,MALE,2015-02-05,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,2,?,0,1,YES,Jeep,Wrangler,2001
-913,45,IL,MALE,2015-01-03,Single Vehicle Collision,Side Collision,Minor Damage,Fire,WV,1,?,1,1,NO,Honda,CRV,2011
-914,36,OH,FEMALE,2015-03-01,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,4,YES,0,2,YES,Honda,Accord,1998
-916,38,OH,MALE,2015-02-25,Vehicle Theft,?,Trivial Damage,Police,NY,1,?,1,1,YES,Honda,Civic,1999
-917,41,OH,MALE,2015-01-23,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,NO,1,3,NO,Mercedes,C300,2009
-918,36,IL,MALE,2015-02-19,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,YES,2,1,?,Toyota,Corolla,1998
-920,40,OH,MALE,2015-02-04,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,1,NO,1,0,YES,Accura,MDX,2000
-921,38,IL,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,NO,0,3,NO,BMW,M5,2011
-922,35,IL,MALE,2015-01-14,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,0,3,NO,Nissan,Ultima,1998
-923,31,OH,FEMALE,2015-01-06,Single Vehicle Collision,Rear Collision,Total Loss,Other,SC,1,YES,1,0,YES,Accura,RSX,2007
-924,30,IN,FEMALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,NO,0,1,NO,Honda,Accord,2003
-925,46,IL,FEMALE,2015-01-24,Vehicle Theft,?,Minor Damage,Police,VA,1,?,2,3,NO,Jeep,Wrangler,2010
-928,30,IN,MALE,2015-01-15,Vehicle Theft,?,Trivial Damage,Police,VA,1,YES,1,3,?,Audi,A5,1998
-931,34,OH,FEMALE,2015-01-14,Multi-vehicle Collision,Side Collision,Total Loss,Fire,PA,3,NO,1,1,?,Nissan,Ultima,2000
-932,44,IL,MALE,2015-01-27,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NC,3,?,2,1,YES,Honda,Civic,1996
-933,37,IL,FEMALE,2015-02-12,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,YES,1,3,?,Dodge,Neon,2008
-934,31,OH,FEMALE,2015-02-03,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,3,NO,1,3,?,Toyota,Highlander,2010
-936,40,OH,MALE,2015-01-09,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,?,1,0,?,Honda,CRV,2003
-937,59,IN,FEMALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Police,VA,1,?,2,2,YES,Jeep,Grand Cherokee,1995
-940,47,OH,FEMALE,2015-01-03,Parked Car,?,Minor Damage,Police,NY,1,?,1,1,YES,Suburu,Impreza,2002
-941,48,IL,FEMALE,2015-01-22,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,3,?,0,0,?,Volkswagen,Passat,1998
-942,31,IN,FEMALE,2015-01-13,Parked Car,?,Minor Damage,Unknown,SC,1,NO,1,3,NO,Volkswagen,Passat,1998
-943,57,IN,FEMALE,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NC,3,YES,0,0,NO,Audi,A3,2015
-944,42,IL,MALE,2015-02-04,Single Vehicle Collision,Side Collision,Total Loss,Police,SC,1,YES,1,3,YES,Jeep,Grand Cherokee,2005
-945,56,IL,MALE,2015-01-20,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,3,NO,0,2,NO,Suburu,Forrestor,1997
-947,63,IL,FEMALE,2015-02-05,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,0,3,?,Suburu,Legacy,2015
-948,31,OH,MALE,2015-01-02,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,NO,1,1,NO,Suburu,Forrestor,2011
-949,55,OH,FEMALE,2015-02-08,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,?,2,3,YES,Ford,Escape,2010
-950,27,IL,FEMALE,2015-01-13,Parked Car,?,Minor Damage,Unknown,SC,1,NO,1,0,NO,Toyota,Camry,2001
-951,37,IN,FEMALE,2015-01-16,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,1,?,0,3,?,Nissan,Maxima,2000
-952,46,IN,FEMALE,2015-01-30,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,3,NO,0,2,NO,Audi,A3,2014
-953,43,IN,MALE,2015-02-26,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,1,0,YES,Volkswagen,Jetta,2012
-954,39,IN,FEMALE,2015-01-27,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,YES,0,3,?,Honda,CRV,2004
-955,38,OH,MALE,2015-01-28,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,YES,0,0,NO,Nissan,Maxima,2013
-956,32,IN,MALE,2015-02-23,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,YES,0,3,YES,Toyota,Camry,2003
-957,42,IL,FEMALE,2015-01-18,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,2,1,NO,Chevrolet,Silverado,1995
-958,25,OH,MALE,2015-02-15,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NC,3,NO,1,3,NO,Dodge,RAM,1995
-959,35,OH,FEMALE,2015-02-04,Vehicle Theft,?,Minor Damage,Police,VA,1,NO,0,0,YES,Saab,92x,2008
-960,34,IL,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,3,NO,1,2,YES,Toyota,Camry,2005
-961,35,IN,FEMALE,2015-01-02,Vehicle Theft,?,Trivial Damage,Police,VA,1,?,2,0,?,Accura,MDX,2012
-962,37,OH,FEMALE,2015-01-27,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,1,NO,0,2,?,Chevrolet,Silverado,2013
-963,30,OH,FEMALE,2015-02-09,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,0,0,YES,BMW,3 Series,2006
-965,26,IL,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,1,?,0,0,NO,BMW,3 Series,1995
-966,29,OH,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NC,3,YES,0,0,?,Jeep,Grand Cherokee,1998
-968,50,OH,FEMALE,2015-01-03,Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,3,NO,2,2,YES,Accura,MDX,2003
-969,55,OH,MALE,2015-02-23,Vehicle Theft,?,Trivial Damage,Police,SC,1,?,2,3,?,Accura,MDX,2012
-970,35,OH,MALE,2015-01-22,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,YES,2,0,YES,Ford,Escape,2007
-971,25,OH,FEMALE,2015-02-13,Single Vehicle Collision,Front Collision,Total Loss,Fire,VA,1,NO,2,1,?,Mercedes,C300,1995
-975,40,IN,FEMALE,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,2,YES,0,2,?,Ford,Escape,2008
-976,33,OH,FEMALE,2015-01-26,Multi-vehicle Collision,Side Collision,Major Damage,Fire,WV,3,?,2,2,?,Accura,RSX,2002
-978,32,IN,FEMALE,2015-01-23,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,?,2,3,YES,Dodge,Neon,1999
-979,37,IN,FEMALE,2015-02-05,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,1,NO,0,2,YES,Saab,95,2004
-980,40,IL,MALE,2015-02-15,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,OH,1,YES,0,2,YES,Suburu,Forrestor,1999
-981,44,OH,MALE,2015-01-08,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,3,?,1,2,NO,Dodge,Neon,2008
-983,39,IL,FEMALE,2015-02-26,Parked Car,?,Trivial Damage,Police,SC,1,?,2,1,?,Suburu,Legacy,2002
-984,36,IN,MALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,WV,1,YES,2,1,NO,Toyota,Corolla,2013
-985,32,OH,MALE,2015-01-13,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,?,0,2,?,Jeep,Wrangler,1995
-988,46,IN,FEMALE,2015-02-17,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,YES,1,1,NO,Honda,Civic,1997
-989,21,IN,FEMALE,2015-02-15,Multi-vehicle Collision,Rear Collision,Total Loss,Police,SC,3,YES,1,2,?,Chevrolet,Malibu,2015
-990,43,IL,FEMALE,2015-01-31,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,?,2,2,YES,Jeep,Grand Cherokee,2013
-991,44,OH,MALE,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,1,NO,0,1,NO,Accura,TL,2002
-992,26,IN,MALE,2015-01-23,Multi-vehicle Collision,Front Collision,Major Damage,Fire,OH,3,YES,1,2,YES,Nissan,Pathfinder,2010
-993,28,OH,MALE,2015-02-17,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,3,?,0,1,?,Volkswagen,Passat,2012
-994,30,IN,MALE,2015-01-22,Parked Car,?,Minor Damage,Police,SC,1,?,1,2,YES,Honda,Civic,1996
-995,38,OH,FEMALE,2015-02-22,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,1,YES,0,1,?,Honda,Accord,2006
-996,41,IL,FEMALE,2015-01-24,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,YES,2,3,?,Volkswagen,Passat,2015
-997,34,OH,FEMALE,2015-01-23,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,3,?,2,3,YES,Suburu,Impreza,1996
-998,62,IL,MALE,2015-02-26,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,1,?,0,1,YES,Audi,A5,1998
-999,60,OH,FEMALE,2015-02-26,Parked Car,?,Minor Damage,Police,WV,1,?,0,3,?,Mercedes,E400,2007
+,age,policy_state,insured_sex,incident_date,incident_type,collision_type,incident_severity,authorities_contacted,incident_state,number_of_vehicles_involved,property_damage,bodily_injuries,witnesses,police_report_available,auto_make,auto_model,auto_year,litigated
+2,29,OH,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,NO,2,3,NO,Dodge,RAM,2007,False
+4,44,IL,MALE,2015-02-17,Vehicle Theft,?,Minor Damage,Unknown,NY,1,NO,0,1,NO,Accura,RSX,2009,False
+6,34,IN,MALE,2015-01-13,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,?,0,0,?,Nissan,Pathfinder,2012,False
+7,37,IL,MALE,2015-02-27,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,3,?,2,2,YES,Audi,A5,2015,False
+8,33,IL,FEMALE,2015-01-30,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,NO,1,1,YES,Toyota,Camry,2012,False
+9,42,IL,MALE,2015-01-05,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,1,NO,2,1,?,Saab,92x,1996,False
+10,42,OH,FEMALE,2015-01-06,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,YES,2,2,?,Ford,F150,2002,False
+11,61,OH,FEMALE,2015-02-15,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,YES,1,2,YES,Audi,A3,2006,False
+12,23,OH,MALE,2015-01-22,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,YES,1,0,NO,Saab,95,2000,False
+13,34,OH,FEMALE,2015-01-08,Parked Car,?,Minor Damage,Unknown,SC,1,NO,1,1,NO,Toyota,Highlander,2010,False
+16,26,OH,MALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,3,?,1,2,YES,Nissan,Maxima,2012,False
+17,31,IN,MALE,2015-01-06,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,1,NO,0,2,YES,Suburu,Legacy,2015,False
+18,37,OH,FEMALE,2015-01-19,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,YES,1,0,NO,Accura,TL,2015,False
+19,39,IN,FEMALE,2015-02-22,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,3,?,2,0,NO,Nissan,Pathfinder,2014,False
+20,62,IN,MALE,2015-01-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,NO,1,0,?,Suburu,Impreza,2011,False
+21,41,IL,FEMALE,2015-02-10,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,?,1,2,?,Accura,RSX,1996,False
+24,40,IN,MALE,2015-02-24,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,1,NO,1,3,NO,Ford,Escape,2005,False
+26,43,IN,MALE,2015-01-28,Parked Car,?,Minor Damage,Police,PA,1,YES,1,3,YES,Toyota,Camry,2005,False
+28,40,OH,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,1,NO,1,0,YES,Dodge,Neon,2009,False
+29,45,IL,FEMALE,2015-02-15,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,NO,2,2,NO,Accura,TL,2011,False
+30,25,IL,MALE,2015-01-18,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,4,NO,0,0,?,Toyota,Corolla,2005,False
+32,35,IL,FEMALE,2015-02-24,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,3,YES,2,3,NO,BMW,3 Series,2008,False
+33,30,IL,MALE,2015-01-09,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,NO,1,2,?,Suburu,Impreza,2015,False
+34,37,IL,MALE,2015-02-12,Single Vehicle Collision,Side Collision,Total Loss,Fire,WV,1,YES,0,1,YES,Audi,A3,1999,False
+37,49,IL,FEMALE,2015-01-18,Parked Car,?,Minor Damage,Police,WV,1,NO,1,1,YES,Suburu,Legacy,2001,False
+38,54,IN,FEMALE,2015-01-21,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,3,?,2,0,?,Jeep,Wrangler,2007,False
+40,26,IL,MALE,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,NO,2,2,?,BMW,M5,2010,False
+42,23,IL,FEMALE,2015-01-16,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,YES,1,0,NO,Dodge,RAM,2010,False
+43,30,OH,FEMALE,2015-02-10,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,1,NO,2,2,NO,Mercedes,E400,2005,False
+44,44,IL,MALE,2015-02-14,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,1,YES,0,2,?,Toyota,Highlander,2014,False
+45,40,IL,FEMALE,2015-02-21,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,NO,2,3,?,Accura,MDX,2002,False
+46,33,IN,FEMALE,2015-02-18,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NC,3,YES,1,1,?,Honda,Civic,2014,False
+48,34,IN,FEMALE,2015-02-26,Vehicle Theft,?,Trivial Damage,Police,NY,1,?,2,0,YES,Volkswagen,Passat,1995,False
+49,35,IL,FEMALE,2015-01-01,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,1,NO,0,0,?,Mercedes,C300,2000,False
+50,59,OH,MALE,2015-01-03,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,?,0,3,YES,Nissan,Pathfinder,1998,False
+51,27,IL,FEMALE,2015-01-17,Vehicle Theft,?,Trivial Damage,Unknown,NY,1,?,1,2,?,BMW,M5,2008,False
+52,39,IN,MALE,2015-02-22,Vehicle Theft,?,Minor Damage,Police,WV,1,?,2,1,YES,Toyota,Corolla,2000,False
+53,40,IN,FEMALE,2015-01-27,Multi-vehicle Collision,Side Collision,Major Damage,Police,NC,3,YES,1,0,?,Suburu,Forrestor,1999,False
+54,39,OH,MALE,2015-02-27,Parked Car,?,Minor Damage,Police,VA,1,NO,0,1,YES,Ford,F150,2009,False
+55,26,OH,MALE,2015-01-06,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,YES,1,2,NO,Chevrolet,Silverado,1995,False
+56,56,IN,FEMALE,2015-02-28,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,?,2,3,?,Honda,CRV,2014,False
+57,32,IN,FEMALE,2015-02-22,Parked Car,?,Minor Damage,Unknown,VA,1,NO,1,3,NO,Chevrolet,Silverado,2014,False
+58,39,IL,MALE,2015-01-07,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,YES,0,1,NO,Saab,93,2007,False
+59,36,OH,FEMALE,2015-01-06,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,3,NO,1,1,NO,Ford,Escape,2000,False
+61,44,IL,MALE,2015-02-11,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,3,NO,0,3,NO,Honda,Accord,1997,False
+62,32,IL,MALE,2015-01-12,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,0,3,YES,BMW,M5,2011,False
+67,64,OH,FEMALE,2015-02-02,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,3,NO,1,1,NO,BMW,X6,1998,False
+68,30,OH,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,1,NO,0,3,NO,Audi,A5,1997,False
+69,49,IN,MALE,2015-02-27,Parked Car,?,Minor Damage,Unknown,NC,1,NO,0,1,?,Ford,F150,2004,False
+72,41,OH,FEMALE,2015-02-11,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,1,NO,1,2,NO,Chevrolet,Malibu,1999,False
+73,37,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,NO,2,0,YES,Mercedes,C300,2002,False
+74,40,IL,FEMALE,2015-03-01,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,3,YES,1,0,YES,BMW,X6,2005,False
+75,35,OH,FEMALE,2015-01-15,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,SC,3,NO,2,0,NO,Ford,Fusion,2010,False
+76,45,OH,FEMALE,2015-01-14,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,1,1,YES,Suburu,Legacy,1998,False
+77,47,IN,MALE,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,NO,0,2,?,Audi,A3,2005,False
+78,39,OH,FEMALE,2015-01-24,Vehicle Theft,?,Minor Damage,Police,SC,1,YES,2,2,YES,Saab,95,2004,False
+80,31,OH,MALE,2015-02-19,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,3,NO,1,2,NO,Accura,MDX,2005,False
+81,40,OH,FEMALE,2015-01-03,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,?,2,1,?,Accura,TL,2005,False
+82,29,IL,MALE,2015-01-29,Vehicle Theft,?,Minor Damage,Police,NY,1,YES,2,2,NO,Nissan,Maxima,2002,False
+83,35,IN,MALE,2015-01-19,Vehicle Theft,?,Trivial Damage,Police,VA,1,NO,0,3,YES,Volkswagen,Jetta,2002,False
+85,41,OH,MALE,2015-02-02,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,3,YES,0,1,?,Suburu,Legacy,2007,False
+86,34,IL,FEMALE,2015-01-30,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,3,NO,2,1,?,Ford,F150,2007,False
+87,32,IL,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,1,?,2,1,YES,BMW,3 Series,2015,False
+88,36,IL,FEMALE,2015-01-30,Parked Car,?,Trivial Damage,Police,WV,1,NO,0,1,YES,Dodge,Neon,2002,False
+90,29,OH,FEMALE,2015-02-24,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,2,YES,1,1,?,Saab,93,1995,False
+92,42,IL,MALE,2015-02-28,Parked Car,?,Trivial Damage,Unknown,WV,1,NO,0,1,NO,BMW,X5,2007,False
+93,43,IN,FEMALE,2015-02-09,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,3,NO,1,1,?,Ford,Fusion,2009,False
+94,42,IL,FEMALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,3,NO,1,0,NO,Mercedes,ML350,2005,False
+95,25,IL,FEMALE,2015-02-21,Vehicle Theft,?,Minor Damage,Police,OH,1,NO,2,0,YES,Toyota,Highlander,2001,False
+98,48,OH,FEMALE,2015-02-22,Parked Car,?,Trivial Damage,Police,WV,1,?,1,2,YES,Saab,95,1999,False
+99,42,IL,MALE,2015-01-26,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,NO,0,0,?,Audi,A3,2007,False
+100,41,IN,FEMALE,2015-01-24,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,YES,0,0,?,Saab,92x,2007,False
+101,27,IL,FEMALE,2015-02-19,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,YES,1,0,YES,Saab,95,2004,False
+102,41,IL,FEMALE,2015-01-29,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NC,3,?,2,3,NO,Ford,Fusion,2013,False
+103,33,OH,FEMALE,2015-02-15,Parked Car,?,Minor Damage,Police,WV,1,NO,1,1,NO,Toyota,Highlander,2008,False
+104,54,OH,MALE,2015-02-12,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,NO,0,0,?,Chevrolet,Malibu,2014,False
+105,49,IL,MALE,2015-01-01,Vehicle Theft,?,Minor Damage,Police,WV,1,YES,1,3,YES,Mercedes,E400,2002,False
+107,28,IN,FEMALE,2015-03-01,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,2,NO,1,0,?,Volkswagen,Passat,1997,False
+110,42,OH,FEMALE,2015-01-12,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,?,1,2,YES,Dodge,RAM,2010,False
+112,41,IL,MALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,?,2,0,NO,BMW,X5,2001,False
+113,32,IN,MALE,2015-03-01,Multi-vehicle Collision,Side Collision,Major Damage,Other,VA,2,?,1,1,?,Saab,93,2007,False
+114,51,OH,MALE,2015-02-24,Vehicle Theft,?,Minor Damage,Police,VA,1,YES,1,1,YES,Ford,F150,2001,False
+116,31,IL,FEMALE,2015-02-26,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,NO,0,3,NO,Suburu,Legacy,2002,False
+118,38,IL,FEMALE,2015-01-17,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,NO,1,3,YES,Ford,Fusion,2015,False
+119,39,OH,FEMALE,2015-02-20,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,0,1,?,BMW,3 Series,2010,False
+120,41,IL,MALE,2015-02-22,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,1,NO,2,0,?,Volkswagen,Passat,2000,False
+123,25,OH,FEMALE,2015-01-05,Multi-vehicle Collision,Front Collision,Total Loss,Other,NC,4,YES,1,0,NO,Accura,MDX,1995,False
+124,35,IL,FEMALE,2015-02-03,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,YES,1,1,?,BMW,X5,2011,False
+125,39,IN,MALE,2015-02-17,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,3,NO,2,3,YES,Ford,Escape,2013,False
+126,38,IL,MALE,2015-01-09,Single Vehicle Collision,Side Collision,Total Loss,Other,WV,1,NO,0,0,?,Suburu,Impreza,2001,False
+127,32,IN,FEMALE,2015-02-08,Parked Car,?,Minor Damage,Police,PA,1,?,2,0,?,BMW,M5,1998,False
+130,45,IN,MALE,2015-01-22,Multi-vehicle Collision,Front Collision,Minor Damage,Other,NY,3,YES,1,2,NO,Ford,Escape,1999,False
+131,39,IN,MALE,2015-02-23,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,3,?,2,2,NO,Dodge,RAM,2012,False
+132,27,OH,FEMALE,2015-02-22,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,3,?,0,1,?,Nissan,Pathfinder,2013,False
+133,33,IL,FEMALE,2015-01-24,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,1,?,2,1,NO,Jeep,Wrangler,2002,False
+134,32,OH,MALE,2015-02-09,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,1,?,1,1,?,BMW,3 Series,2006,False
+136,40,IL,FEMALE,2015-01-01,Vehicle Theft,?,Minor Damage,Police,VA,1,?,0,0,NO,Ford,Escape,2015,False
+137,28,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,NO,0,3,?,BMW,X5,2010,False
+138,46,IL,FEMALE,2015-02-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,3,?,1,2,YES,Toyota,Camry,1999,False
+139,32,IL,FEMALE,2015-02-21,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,3,NO,0,2,YES,BMW,X5,1995,False
+140,35,OH,MALE,2015-01-21,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,YES,0,1,?,Mercedes,E400,2008,False
+141,41,IL,MALE,2015-01-19,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,?,2,3,?,Suburu,Forrestor,2001,False
+142,34,IN,MALE,2015-02-27,Parked Car,?,Minor Damage,Police,SC,1,?,2,1,YES,Chevrolet,Silverado,2013,False
+144,31,IL,FEMALE,2015-02-01,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,3,?,0,3,YES,Accura,MDX,2011,False
+147,38,OH,FEMALE,2015-01-19,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,?,1,1,?,Nissan,Pathfinder,2014,False
+150,32,OH,FEMALE,2015-01-09,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,?,1,0,?,Audi,A3,2014,False
+151,45,IL,MALE,2015-02-27,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,3,?,2,1,?,Mercedes,C300,2009,False
+153,54,OH,FEMALE,2015-01-08,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,3,NO,2,3,?,Suburu,Forrestor,1997,False
+156,61,OH,MALE,2015-02-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,2,1,YES,Jeep,Wrangler,2006,False
+157,59,IN,FEMALE,2015-02-06,Parked Car,?,Minor Damage,Unknown,WV,1,?,2,3,NO,Saab,92x,2013,False
+158,38,IN,MALE,2015-02-14,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,WV,3,?,2,0,?,Suburu,Legacy,2013,False
+159,29,OH,FEMALE,2015-02-05,Vehicle Theft,?,Minor Damage,Police,NY,1,?,2,0,?,Honda,Accord,1999,False
+160,36,IN,FEMALE,2015-01-25,Parked Car,?,Minor Damage,Police,VA,1,YES,2,3,?,Mercedes,E400,2014,False
+161,48,IN,FEMALE,2015-01-16,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,?,2,0,?,Chevrolet,Silverado,1997,False
+162,48,OH,FEMALE,2015-01-28,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,2,NO,2,1,YES,Volkswagen,Passat,2002,False
+164,34,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,PA,3,NO,2,0,YES,Mercedes,E400,2011,False
+165,29,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,NO,2,2,YES,Suburu,Legacy,2012,False
+167,45,IL,MALE,2015-02-27,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,NO,0,0,NO,Saab,95,1999,False
+168,46,IL,FEMALE,2015-02-21,Parked Car,?,Trivial Damage,Police,SC,1,?,0,1,NO,Toyota,Highlander,2015,False
+169,37,IN,MALE,2015-01-05,Parked Car,?,Minor Damage,Unknown,NY,1,NO,1,0,NO,Jeep,Wrangler,2011,False
+170,42,IL,MALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,YES,0,0,?,Jeep,Wrangler,2006,False
+172,29,IL,MALE,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,3,YES,1,0,?,Dodge,Neon,2001,False
+173,31,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,3,?,0,2,YES,Volkswagen,Jetta,2014,False
+174,44,IL,FEMALE,2015-02-05,Vehicle Theft,?,Trivial Damage,Unknown,WV,1,NO,0,1,NO,Ford,Fusion,2002,False
+175,46,IN,MALE,2015-01-21,Single Vehicle Collision,Rear Collision,Minor Damage,Other,PA,1,?,1,0,YES,Jeep,Wrangler,2011,False
+176,34,IN,MALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,OH,1,NO,1,1,YES,Honda,Civic,1998,False
+177,45,IL,FEMALE,2015-01-11,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,YES,0,1,?,Volkswagen,Jetta,2003,False
+178,40,IN,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,1,YES,0,1,NO,Chevrolet,Malibu,1998,False
+179,39,IL,MALE,2015-01-24,Vehicle Theft,?,Trivial Damage,Unknown,NY,1,?,2,1,NO,Chevrolet,Silverado,2010,False
+180,36,OH,MALE,2015-02-18,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,3,?,2,0,YES,Audi,A3,2006,False
+181,54,IL,FEMALE,2015-01-12,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,YES,2,3,?,Dodge,Neon,1997,False
+182,27,IN,FEMALE,2015-01-17,Single Vehicle Collision,Side Collision,Total Loss,Police,VA,1,YES,2,3,NO,Accura,RSX,2009,False
+184,46,OH,MALE,2015-01-06,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,1,?,0,2,NO,Mercedes,C300,2013,False
+186,34,IL,FEMALE,2015-02-16,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,3,?,1,1,NO,Audi,A3,2009,False
+187,39,IN,FEMALE,2015-02-25,Vehicle Theft,?,Minor Damage,Police,NY,1,YES,1,3,YES,Chevrolet,Tahoe,2010,False
+189,28,OH,FEMALE,2015-02-16,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,VA,1,NO,0,2,YES,Honda,CRV,2007,False
+190,57,OH,MALE,2015-02-09,Parked Car,?,Minor Damage,Police,SC,1,YES,0,1,YES,Volkswagen,Passat,2008,False
+191,39,IN,MALE,2015-02-13,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,?,1,2,?,Nissan,Maxima,2001,False
+192,47,OH,FEMALE,2015-01-11,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,1,NO,0,3,NO,Mercedes,C300,2012,False
+193,32,OH,MALE,2015-01-02,Vehicle Theft,?,Minor Damage,Police,VA,1,YES,1,1,YES,Nissan,Maxima,2015,False
+194,26,IL,MALE,2015-02-12,Multi-vehicle Collision,Rear Collision,Total Loss,Other,VA,3,?,0,1,YES,Chevrolet,Tahoe,2003,False
+195,44,IL,MALE,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NC,2,YES,2,3,NO,Saab,95,2006,False
+197,43,OH,FEMALE,2015-01-12,Parked Car,?,Trivial Damage,Unknown,WV,1,YES,0,3,?,Accura,MDX,2006,False
+198,48,IL,MALE,2015-01-16,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,1,YES,2,1,NO,Honda,Civic,2014,False
+199,43,OH,FEMALE,2015-01-13,Vehicle Theft,?,Minor Damage,Police,SC,1,?,1,1,?,BMW,3 Series,1997,False
+200,31,IL,MALE,2015-02-02,Vehicle Theft,?,Trivial Damage,Police,NY,1,NO,2,1,YES,Suburu,Impreza,2011,False
+201,49,OH,MALE,2015-02-28,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,WV,1,?,2,0,YES,Suburu,Legacy,2006,False
+202,39,IN,FEMALE,2015-01-18,Parked Car,?,Trivial Damage,Police,NY,1,NO,0,2,NO,Chevrolet,Malibu,2015,False
+203,62,IL,MALE,2015-02-15,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,YES,0,3,?,Chevrolet,Tahoe,2009,False
+204,39,IL,MALE,2015-01-31,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,3,NO,1,2,?,Saab,93,1995,False
+205,43,OH,FEMALE,2015-02-10,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,NO,2,1,NO,BMW,M5,2011,False
+207,29,OH,MALE,2015-02-25,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,3,?,0,3,YES,Audi,A3,2005,False
+208,48,IN,MALE,2015-01-08,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,4,NO,2,3,NO,Mercedes,C300,2003,False
+209,53,IN,MALE,2015-01-14,Parked Car,?,Trivial Damage,Police,WV,1,NO,0,1,NO,Suburu,Legacy,2002,False
+210,24,OH,FEMALE,2015-02-03,Vehicle Theft,?,Minor Damage,Police,NC,1,NO,2,0,NO,Toyota,Corolla,2015,False
+211,37,IN,MALE,2015-01-05,Vehicle Theft,?,Trivial Damage,Unknown,OH,1,?,1,2,?,Dodge,RAM,1999,False
+212,50,OH,MALE,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,YES,2,3,YES,Volkswagen,Passat,2009,False
+216,26,IL,FEMALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,NO,2,2,NO,Audi,A5,2008,False
+217,28,OH,MALE,2015-02-10,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,?,2,1,NO,BMW,X5,2004,False
+219,43,OH,MALE,2015-01-09,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,NO,1,0,NO,BMW,X6,1999,False
+221,49,OH,FEMALE,2015-02-21,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,1,NO,2,2,NO,Jeep,Grand Cherokee,2012,False
+222,50,IL,FEMALE,2015-02-04,Single Vehicle Collision,Side Collision,Total Loss,Fire,NY,1,YES,0,0,NO,Chevrolet,Silverado,1995,False
+223,50,IL,MALE,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,?,1,1,NO,Mercedes,E400,1995,False
+224,38,IN,FEMALE,2015-01-17,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,3,?,0,3,YES,Accura,MDX,2008,False
+225,41,IN,MALE,2015-01-28,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,1,YES,0,1,YES,Jeep,Wrangler,1999,False
+226,52,IL,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,2,YES,2,0,?,Accura,RSX,2010,False
+228,53,IL,FEMALE,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,3,YES,1,3,NO,Saab,93,2015,False
+229,37,IL,FEMALE,2015-01-09,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,?,0,3,NO,Accura,MDX,2000,False
+230,34,OH,FEMALE,2015-02-09,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,NO,0,2,YES,Honda,CRV,2005,False
+231,46,OH,MALE,2015-02-16,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,NO,2,3,YES,Volkswagen,Passat,2005,False
+232,42,IN,FEMALE,2015-02-18,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,4,?,2,1,YES,Toyota,Highlander,2006,False
+233,35,IL,MALE,2015-01-11,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,3,?,2,0,NO,Nissan,Pathfinder,1999,False
+235,54,IN,MALE,2015-01-22,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,NO,1,0,?,Nissan,Ultima,2009,False
+236,32,IN,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,1,1,NO,Dodge,RAM,1999,False
+238,41,OH,FEMALE,2015-02-16,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,?,1,1,?,Saab,92x,2010,False
+239,37,IN,FEMALE,2015-02-08,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,YES,1,1,?,Suburu,Legacy,1999,False
+240,43,IL,FEMALE,2015-01-26,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,?,0,0,YES,Saab,92x,2015,False
+242,40,OH,FEMALE,2015-02-02,Parked Car,?,Trivial Damage,Police,SC,1,?,2,1,YES,Nissan,Ultima,2001,False
+243,36,IL,FEMALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,3,?,2,2,NO,Dodge,RAM,2012,False
+244,28,OH,MALE,2015-01-01,Vehicle Theft,?,Trivial Damage,Unknown,PA,1,YES,1,2,NO,Mercedes,E400,2014,False
+246,28,IL,FEMALE,2015-01-17,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,YES,0,2,YES,Saab,92x,2008,False
+248,27,IL,MALE,2015-01-02,Parked Car,?,Minor Damage,Unknown,SC,1,?,0,3,NO,Mercedes,E400,2009,False
+249,30,IN,FEMALE,2015-02-20,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,1,?,1,3,YES,Chevrolet,Malibu,2001,False
+252,40,OH,FEMALE,2015-01-27,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,1,1,NO,Saab,95,1998,False
+255,57,IL,FEMALE,2015-01-14,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,NO,0,1,?,Dodge,RAM,1995,False
+256,36,IL,MALE,2015-02-22,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,YES,1,0,YES,Accura,TL,2004,False
+258,40,IL,FEMALE,2015-02-02,Vehicle Theft,?,Trivial Damage,Police,NY,1,YES,1,3,YES,Toyota,Camry,2014,False
+260,29,OH,FEMALE,2015-02-02,Parked Car,?,Trivial Damage,Unknown,SC,1,?,0,1,NO,Dodge,Neon,2014,False
+263,40,IN,MALE,2015-01-10,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,?,1,1,?,Dodge,RAM,2001,False
+264,30,IL,FEMALE,2015-01-30,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,NO,1,0,YES,Volkswagen,Passat,2010,False
+265,57,IL,FEMALE,2015-01-25,Vehicle Theft,?,Trivial Damage,Police,NC,1,NO,1,0,NO,Audi,A5,1999,False
+267,29,IN,FEMALE,2015-02-24,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,NO,0,0,?,BMW,X5,2009,False
+268,37,OH,MALE,2015-01-04,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,PA,3,YES,0,3,NO,Nissan,Pathfinder,2001,False
+269,36,IN,FEMALE,2015-02-25,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,3,YES,2,3,YES,Chevrolet,Tahoe,2007,False
+270,55,OH,MALE,2015-01-27,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,3,?,2,0,YES,Toyota,Highlander,2003,False
+271,40,IL,FEMALE,2015-02-19,Parked Car,?,Minor Damage,Unknown,NY,1,NO,0,0,NO,Audi,A3,2012,False
+273,26,OH,FEMALE,2015-01-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,3,?,1,0,NO,Nissan,Ultima,2002,False
+274,39,IL,FEMALE,2015-01-10,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,0,2,?,Ford,Fusion,1997,False
+275,43,IN,FEMALE,2015-01-28,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,3,?,0,1,NO,Jeep,Wrangler,2008,False
+276,42,IN,MALE,2015-02-16,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,YES,1,2,NO,Saab,93,2012,False
+279,38,IL,FEMALE,2015-02-06,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,YES,2,1,YES,BMW,X6,1997,False
+280,39,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,PA,3,NO,1,3,?,Nissan,Ultima,2012,False
+282,40,OH,FEMALE,2015-02-18,Vehicle Theft,?,Minor Damage,Police,SC,1,YES,0,0,YES,Jeep,Grand Cherokee,2003,False
+284,36,OH,FEMALE,2015-02-13,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,3,?,1,3,YES,Ford,Escape,2009,False
+285,33,IL,FEMALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,1,YES,0,1,?,Accura,MDX,2008,False
+286,31,IN,MALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,3,YES,2,0,NO,Suburu,Forrestor,1999,False
+287,40,OH,FEMALE,2015-01-29,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,?,1,0,NO,Toyota,Camry,1997,False
+289,39,IN,FEMALE,2015-02-01,Parked Car,?,Minor Damage,Police,VA,1,NO,0,2,?,BMW,3 Series,2013,False
+290,42,OH,MALE,2015-01-29,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,1,YES,0,1,?,Chevrolet,Malibu,1996,False
+291,40,IL,MALE,2015-02-06,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,3,?,0,2,NO,BMW,X5,2010,False
+293,34,IL,MALE,2015-01-21,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,YES,2,2,?,Mercedes,ML350,1998,False
+295,31,IN,FEMALE,2015-02-17,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,?,1,2,NO,Mercedes,ML350,2009,False
+296,43,IL,MALE,2015-02-01,Multi-vehicle Collision,Front Collision,Minor Damage,Police,PA,3,YES,2,2,YES,Audi,A3,2010,False
+297,39,IL,FEMALE,2015-02-25,Parked Car,?,Trivial Damage,Police,SC,1,?,2,3,?,Dodge,RAM,2003,False
+298,35,IL,FEMALE,2015-02-26,Parked Car,?,Minor Damage,Unknown,WV,1,YES,1,0,?,Nissan,Pathfinder,2003,False
+299,27,IN,MALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Major Damage,Other,PA,2,NO,1,0,?,Accura,TL,2006,False
+300,43,IL,FEMALE,2015-02-03,Vehicle Theft,?,Trivial Damage,Police,SC,1,NO,1,3,NO,Audi,A5,2008,False
+301,31,IL,MALE,2015-01-27,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,YES,1,2,?,Honda,CRV,2001,False
+302,44,IL,MALE,2015-01-21,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,3,YES,0,2,?,Jeep,Wrangler,2013,False
+303,40,IL,MALE,2015-01-24,Parked Car,?,Trivial Damage,Police,NY,1,?,0,2,NO,Ford,F150,1997,False
+304,47,IN,MALE,2015-01-17,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,YES,0,0,NO,Accura,TL,2001,False
+308,37,OH,MALE,2015-01-16,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,?,1,1,YES,Suburu,Legacy,1999,False
+309,36,IL,MALE,2015-01-14,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,NO,2,2,NO,BMW,3 Series,2008,False
+312,33,OH,FEMALE,2015-01-04,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,?,0,0,?,Suburu,Legacy,2012,False
+313,59,OH,MALE,2015-01-12,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,?,2,2,NO,Toyota,Corolla,2014,False
+314,30,IL,FEMALE,2015-01-08,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,YES,2,0,?,BMW,X6,2009,False
+315,42,IL,FEMALE,2015-01-22,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,2,1,?,Nissan,Ultima,1998,False
+316,46,OH,MALE,2015-01-13,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,3,NO,1,3,?,BMW,X5,2009,False
+317,45,IN,FEMALE,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,VA,3,YES,1,1,?,Accura,MDX,1998,False
+318,33,IL,FEMALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,1,0,?,Toyota,Highlander,2006,False
+320,37,IL,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,0,2,YES,Toyota,Corolla,2005,False
+321,30,IN,MALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,3,YES,0,3,YES,Dodge,RAM,2010,False
+322,44,IL,MALE,2015-01-02,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,?,1,2,YES,BMW,3 Series,2012,False
+323,50,OH,FEMALE,2015-02-26,Multi-vehicle Collision,Rear Collision,Total Loss,Police,PA,3,NO,0,2,NO,Audi,A3,2015,False
+325,55,IL,MALE,2015-02-07,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,YES,1,1,YES,Nissan,Pathfinder,2010,False
+326,49,IL,FEMALE,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,YES,0,2,?,Volkswagen,Jetta,2003,False
+327,47,IN,MALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,YES,0,0,?,Chevrolet,Tahoe,2014,False
+330,28,OH,MALE,2015-02-21,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,1,?,2,3,?,Toyota,Camry,2005,False
+332,25,IN,FEMALE,2015-02-16,Parked Car,?,Trivial Damage,Unknown,SC,1,NO,2,2,?,Nissan,Ultima,2005,False
+333,26,IL,FEMALE,2015-02-04,Parked Car,?,Trivial Damage,Unknown,VA,1,?,2,2,?,Suburu,Legacy,1995,False
+334,30,OH,MALE,2015-02-24,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,1,?,0,0,YES,Ford,Escape,2004,False
+335,31,IL,FEMALE,2015-02-01,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,0,1,YES,BMW,3 Series,2002,False
+336,39,OH,MALE,2015-02-05,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,NO,2,1,NO,Chevrolet,Silverado,2008,False
+337,37,IL,MALE,2015-01-07,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,YES,2,0,NO,Dodge,RAM,1999,False
+338,30,IN,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,?,1,1,YES,Saab,92x,2000,False
+339,35,IN,MALE,2015-01-21,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,?,1,3,?,Suburu,Forrestor,1996,False
+341,42,OH,FEMALE,2015-02-24,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,YES,1,3,NO,BMW,3 Series,2000,False
+343,47,IL,MALE,2015-01-31,Vehicle Theft,?,Minor Damage,Unknown,WV,1,?,0,3,NO,Ford,Fusion,2011,False
+345,28,IN,MALE,2015-02-23,Single Vehicle Collision,Side Collision,Minor Damage,Police,VA,1,YES,0,2,YES,Jeep,Wrangler,2002,False
+346,56,OH,MALE,2015-01-28,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,YES,2,0,YES,Suburu,Forrestor,2002,False
+347,43,IN,FEMALE,2015-01-14,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,1,?,2,2,YES,Mercedes,E400,2005,False
+348,34,IL,MALE,2015-02-03,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,YES,1,0,?,Audi,A5,2009,False
+350,43,OH,FEMALE,2015-01-30,Single Vehicle Collision,Side Collision,Minor Damage,Other,VA,1,YES,1,3,NO,Volkswagen,Jetta,2011,False
+352,26,IN,FEMALE,2015-02-03,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,1,NO,1,3,?,Honda,CRV,2011,False
+353,57,OH,MALE,2015-01-31,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,?,0,2,NO,Suburu,Forrestor,2000,False
+354,27,IN,FEMALE,2015-02-06,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,YES,0,0,?,Volkswagen,Passat,1995,False
+355,43,OH,FEMALE,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,1,NO,0,0,?,Nissan,Ultima,1997,False
+356,37,IL,FEMALE,2015-01-29,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,3,YES,1,1,YES,Ford,Fusion,1995,False
+357,28,OH,MALE,2015-01-07,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,YES,0,2,?,Suburu,Impreza,2010,False
+359,44,OH,MALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,NO,1,0,YES,Saab,93,2005,False
+362,30,IN,MALE,2015-02-28,Parked Car,?,Trivial Damage,Unknown,VA,1,YES,0,2,NO,Saab,93,1999,False
+366,36,IL,FEMALE,2015-02-03,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,?,2,0,?,Volkswagen,Passat,2015,False
+367,47,OH,FEMALE,2015-01-31,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,1,NO,1,0,YES,Toyota,Highlander,1996,False
+369,47,IL,MALE,2015-02-21,Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,4,YES,0,1,?,Dodge,RAM,2002,False
+370,57,IN,MALE,2015-01-30,Multi-vehicle Collision,Front Collision,Major Damage,Other,NC,3,YES,2,1,NO,Saab,93,1995,False
+371,41,OH,FEMALE,2015-01-31,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,2,?,1,2,YES,Honda,Accord,2015,False
+372,30,IL,FEMALE,2015-01-13,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,NO,1,3,?,Suburu,Forrestor,2009,False
+374,53,IL,MALE,2015-02-04,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,4,?,0,0,YES,Suburu,Forrestor,2012,False
+375,44,IL,FEMALE,2015-02-07,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,3,?,1,0,YES,Volkswagen,Jetta,2006,False
+376,29,OH,FEMALE,2015-01-16,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,?,1,0,NO,Dodge,Neon,2013,False
+377,26,OH,MALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,1,?,1,2,?,Toyota,Corolla,2009,False
+378,41,IN,MALE,2015-02-08,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,?,2,0,?,Audi,A3,2006,False
+380,41,IN,FEMALE,2015-01-13,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,?,1,3,?,Audi,A5,2014,False
+381,34,IL,FEMALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,YES,1,3,?,Chevrolet,Malibu,2012,False
+384,41,IL,FEMALE,2015-01-04,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,NO,2,2,YES,Audi,A5,2014,False
+385,30,OH,MALE,2015-02-02,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,1,0,YES,Ford,F150,2007,False
+386,38,OH,FEMALE,2015-02-23,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,1,NO,0,1,?,Mercedes,E400,2014,False
+387,21,IN,MALE,2015-02-10,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,?,1,2,?,Honda,Accord,2003,False
+388,36,OH,MALE,2015-02-16,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,3,YES,0,1,?,Nissan,Ultima,1999,False
+389,33,OH,FEMALE,2015-01-04,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,1,YES,1,2,?,Suburu,Legacy,2009,False
+390,35,IL,FEMALE,2015-01-30,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,YES,0,2,NO,Saab,92x,2005,False
+391,48,IN,MALE,2015-01-25,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,?,0,0,NO,Toyota,Highlander,2013,False
+392,36,OH,FEMALE,2015-01-22,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NY,3,NO,2,1,NO,Saab,95,2003,False
+393,58,OH,MALE,2015-01-01,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,3,?,1,2,?,Volkswagen,Jetta,2009,False
+395,31,OH,FEMALE,2015-01-15,Vehicle Theft,?,Minor Damage,Unknown,SC,1,YES,2,0,NO,Accura,MDX,2015,False
+396,57,IN,MALE,2015-01-06,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,NO,1,0,?,Ford,Fusion,2012,False
+397,46,IN,MALE,2015-02-08,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,1,YES,0,2,YES,Jeep,Grand Cherokee,2003,False
+398,27,OH,FEMALE,2015-02-17,Vehicle Theft,?,Trivial Damage,Police,WV,1,?,0,1,YES,Saab,95,2015,False
+399,33,IN,MALE,2015-01-21,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,1,NO,1,0,YES,Chevrolet,Malibu,2002,False
+400,53,OH,FEMALE,2015-02-09,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,2,YES,1,3,NO,Jeep,Wrangler,2012,False
+401,46,IL,MALE,2015-02-12,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,1,0,?,Ford,Escape,2008,False
+403,51,IN,MALE,2015-02-02,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,1,?,0,2,NO,Audi,A5,2004,False
+405,30,IN,FEMALE,2015-02-15,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,?,2,3,NO,Honda,Civic,1999,False
+406,41,OH,MALE,2015-02-28,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,3,?,0,3,YES,Toyota,Corolla,1999,False
+407,45,IN,FEMALE,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,3,?,0,0,NO,Suburu,Forrestor,2008,False
+408,40,OH,MALE,2015-01-06,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,OH,1,?,1,3,YES,Chevrolet,Silverado,2001,False
+409,45,OH,FEMALE,2015-01-19,Vehicle Theft,?,Trivial Damage,Unknown,NC,1,NO,2,3,NO,Ford,Escape,1995,False
+410,43,IN,FEMALE,2015-01-17,Parked Car,?,Minor Damage,Unknown,WV,1,?,0,3,NO,BMW,M5,2006,False
+411,29,OH,FEMALE,2015-02-12,Parked Car,?,Trivial Damage,Police,SC,1,YES,2,0,YES,BMW,3 Series,2005,False
+412,44,OH,FEMALE,2015-02-11,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,NO,2,2,NO,Chevrolet,Tahoe,2008,False
+413,29,IL,MALE,2015-02-21,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,3,?,1,2,YES,Jeep,Grand Cherokee,1995,False
+414,39,OH,MALE,2015-01-02,Vehicle Theft,?,Minor Damage,Unknown,NC,1,YES,1,2,?,Dodge,RAM,1997,False
+415,32,OH,FEMALE,2015-01-11,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,1,NO,1,3,NO,Suburu,Legacy,1999,False
+416,49,OH,FEMALE,2015-02-23,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,?,0,2,YES,Mercedes,ML350,2005,False
+417,37,OH,FEMALE,2015-01-28,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,1,YES,1,2,YES,Jeep,Grand Cherokee,2009,False
+418,44,IN,MALE,2015-02-01,Vehicle Theft,?,Trivial Damage,Police,NC,1,NO,1,3,NO,Jeep,Wrangler,2005,False
+419,33,IL,FEMALE,2015-02-24,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,1,NO,2,0,?,BMW,X5,2007,False
+420,41,IN,FEMALE,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,1,NO,2,2,?,Volkswagen,Jetta,1996,False
+421,37,IN,MALE,2015-01-14,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,?,1,0,NO,Toyota,Camry,1995,False
+422,21,IN,MALE,2015-02-05,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,1,?,0,0,?,Toyota,Corolla,2012,False
+423,48,IN,FEMALE,2015-01-11,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,1,?,0,0,?,Ford,Fusion,2004,False
+426,35,IL,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,NO,0,2,?,BMW,X5,2013,False
+427,31,IN,FEMALE,2015-02-25,Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,1,?,1,0,NO,Nissan,Maxima,2011,False
+429,58,IN,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,YES,2,3,NO,Nissan,Maxima,2014,False
+430,47,IN,FEMALE,2015-02-12,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,4,YES,1,2,YES,Dodge,Neon,2001,False
+431,45,OH,FEMALE,2015-02-24,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,3,?,0,0,YES,Saab,92x,2005,False
+433,34,IL,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,?,2,3,YES,Dodge,RAM,1999,False
+434,32,OH,MALE,2015-02-09,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,1,?,0,3,?,Honda,CRV,1995,False
+435,28,OH,MALE,2015-02-15,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,1,NO,1,0,NO,Dodge,Neon,1996,False
+436,23,IL,MALE,2015-02-25,Single Vehicle Collision,Side Collision,Major Damage,Fire,PA,1,?,1,2,?,Suburu,Legacy,1997,False
+438,40,IL,FEMALE,2015-01-12,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,1,1,NO,Audi,A5,2004,False
+439,29,IN,MALE,2015-01-01,Parked Car,?,Trivial Damage,Police,VA,1,YES,2,1,YES,Nissan,Pathfinder,2010,False
+440,31,IN,MALE,2015-02-19,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,1,NO,0,2,NO,Dodge,Neon,2006,False
+441,50,OH,MALE,2015-01-14,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,3,NO,0,3,NO,Dodge,Neon,2008,False
+443,34,IN,FEMALE,2015-01-20,Parked Car,?,Minor Damage,Unknown,VA,1,NO,2,1,?,Jeep,Grand Cherokee,2002,False
+444,36,IN,FEMALE,2015-02-18,Parked Car,?,Minor Damage,Unknown,NC,1,NO,0,0,?,Dodge,Neon,2014,False
+446,37,IN,FEMALE,2015-01-16,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,1,YES,2,3,YES,Jeep,Wrangler,2005,False
+447,53,IL,MALE,2015-01-15,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,1,YES,2,2,NO,Chevrolet,Malibu,2009,False
+448,32,OH,FEMALE,2015-02-01,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,NO,1,0,?,Dodge,Neon,2013,False
+449,39,IL,FEMALE,2015-01-06,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,4,?,0,3,NO,BMW,X6,2007,False
+450,32,OH,FEMALE,2015-02-02,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,1,YES,0,1,?,Toyota,Camry,2012,False
+451,30,IN,FEMALE,2015-02-25,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,NO,2,0,YES,Chevrolet,Malibu,2003,False
+452,33,IL,FEMALE,2015-02-10,Parked Car,?,Trivial Damage,Unknown,NY,1,YES,1,0,NO,Audi,A3,1997,False
+453,37,IL,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,?,2,1,NO,Suburu,Forrestor,2003,False
+454,30,IL,FEMALE,2015-01-31,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,1,?,2,3,NO,Chevrolet,Malibu,2011,False
+455,43,IL,MALE,2015-02-12,Multi-vehicle Collision,Front Collision,Minor Damage,Police,WV,3,YES,2,0,NO,Ford,Escape,2007,False
+456,24,IN,MALE,2015-01-06,Vehicle Theft,?,Minor Damage,Police,NY,1,?,0,1,YES,Dodge,Neon,2003,False
+458,51,OH,FEMALE,2015-01-07,Single Vehicle Collision,Side Collision,Total Loss,Other,NC,1,YES,0,2,?,Jeep,Wrangler,1997,False
+459,38,IN,FEMALE,2015-02-21,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,YES,2,3,?,Accura,MDX,1995,False
+461,54,IL,MALE,2015-02-16,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,1,YES,0,2,NO,Honda,Accord,2001,False
+463,41,IL,MALE,2015-01-22,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,NO,2,0,NO,Saab,93,2013,False
+464,38,OH,MALE,2015-02-15,Multi-vehicle Collision,Front Collision,Total Loss,Other,SC,3,YES,2,2,?,Nissan,Ultima,2006,False
+465,33,IL,FEMALE,2015-01-07,Single Vehicle Collision,Rear Collision,Major Damage,Police,VA,1,?,2,1,?,BMW,M5,1998,False
+466,34,IN,FEMALE,2015-02-23,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,3,NO,0,1,YES,Chevrolet,Tahoe,2007,False
+467,56,IL,FEMALE,2015-01-06,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,?,0,0,?,Volkswagen,Passat,2007,False
+468,37,OH,FEMALE,2015-02-07,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,?,2,2,NO,Volkswagen,Passat,2015,False
+469,35,IL,FEMALE,2015-02-14,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NC,3,NO,2,2,NO,Volkswagen,Jetta,1996,False
+471,38,IL,MALE,2015-02-14,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,WV,3,YES,1,2,NO,Dodge,Neon,2003,False
+472,51,IL,MALE,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,NO,2,0,YES,BMW,X6,2000,False
+473,49,IL,FEMALE,2015-01-04,Vehicle Theft,?,Trivial Damage,Unknown,SC,1,NO,1,0,NO,Nissan,Maxima,2001,False
+475,36,OH,FEMALE,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Police,NC,3,NO,1,1,NO,Nissan,Ultima,2015,False
+480,44,IL,MALE,2015-02-13,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,NO,0,2,NO,Ford,Fusion,1999,False
+481,21,OH,FEMALE,2015-01-14,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,PA,1,NO,0,0,?,Accura,MDX,2006,False
+483,40,IL,MALE,2015-01-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,2,YES,2,0,?,BMW,3 Series,2013,False
+484,56,OH,MALE,2015-01-30,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,1,NO,2,0,?,Jeep,Wrangler,2009,False
+485,28,IN,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,?,2,1,?,Nissan,Maxima,1995,False
+486,29,OH,MALE,2015-02-20,Single Vehicle Collision,Rear Collision,Total Loss,Fire,VA,1,NO,0,0,?,Chevrolet,Malibu,2003,False
+487,24,IN,FEMALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,?,0,0,NO,Dodge,RAM,2012,False
+488,46,IL,MALE,2015-02-23,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,NO,0,3,YES,Mercedes,ML350,2013,False
+490,33,OH,MALE,2015-02-21,Vehicle Theft,?,Minor Damage,Unknown,WV,1,YES,1,1,NO,Toyota,Corolla,2005,False
+491,39,IL,FEMALE,2015-01-13,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,3,YES,1,3,?,Jeep,Grand Cherokee,2007,False
+492,49,OH,MALE,2015-01-17,Multi-vehicle Collision,Side Collision,Major Damage,Other,NY,3,NO,0,2,NO,Saab,95,2007,False
+493,43,IN,FEMALE,2015-02-18,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,1,?,1,2,NO,Chevrolet,Malibu,2015,False
+495,46,IN,MALE,2015-01-27,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,?,0,3,?,Chevrolet,Tahoe,2013,False
+496,44,IL,MALE,2015-02-12,Vehicle Theft,?,Trivial Damage,Police,NY,1,?,1,2,NO,Accura,MDX,1999,False
+497,32,OH,MALE,2015-01-17,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,4,?,1,1,NO,Accura,MDX,2002,False
+499,49,IN,FEMALE,2015-01-21,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,1,YES,1,1,YES,Saab,95,2013,False
+500,29,OH,FEMALE,2015-01-01,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,?,2,3,YES,Honda,CRV,2003,False
+501,39,IN,MALE,2015-02-18,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,NO,0,2,?,Mercedes,ML350,2015,False
+502,38,IL,FEMALE,2015-02-04,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,YES,1,1,NO,Nissan,Ultima,2005,False
+503,48,IL,FEMALE,2015-01-09,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,?,1,0,?,Accura,TL,1999,False
+505,46,IL,MALE,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,2,1,NO,Jeep,Grand Cherokee,1998,False
+506,24,IL,FEMALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,NO,2,1,?,Nissan,Ultima,2011,False
+507,29,IL,MALE,2015-01-30,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,NO,2,2,YES,Accura,MDX,2005,False
+508,24,IN,FEMALE,2015-02-20,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,?,0,1,NO,Honda,CRV,2003,False
+509,30,IL,MALE,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,3,YES,2,0,NO,Mercedes,E400,2002,False
+510,38,OH,MALE,2015-01-31,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,1,NO,2,0,?,Audi,A3,2015,False
+511,48,OH,FEMALE,2015-02-17,Parked Car,?,Trivial Damage,Police,NY,1,?,2,3,NO,Volkswagen,Jetta,2003,False
+512,34,IL,MALE,2015-01-24,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,?,2,1,YES,Nissan,Pathfinder,1997,False
+514,60,IL,FEMALE,2015-01-09,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,1,NO,0,0,NO,Honda,Civic,2001,False
+515,48,OH,FEMALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,?,0,3,YES,Mercedes,E400,2001,False
+516,27,IN,FEMALE,2015-01-17,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,?,1,2,YES,Chevrolet,Silverado,2004,False
+518,41,IL,MALE,2015-01-14,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,NO,1,0,NO,Jeep,Grand Cherokee,2009,False
+519,43,IL,FEMALE,2015-02-02,Vehicle Theft,?,Trivial Damage,Police,NY,1,NO,0,1,?,Chevrolet,Tahoe,2014,False
+520,43,IN,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,NO,0,2,?,Accura,RSX,2004,False
+521,26,IL,FEMALE,2015-01-25,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,YES,1,3,?,Audi,A5,2003,False
+522,42,IN,MALE,2015-02-13,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,4,NO,0,2,YES,Honda,Civic,2005,False
+523,30,OH,FEMALE,2015-02-20,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,YES,2,1,YES,Ford,F150,2004,False
+524,46,OH,FEMALE,2015-01-08,Parked Car,?,Minor Damage,Police,NC,1,NO,1,2,?,Toyota,Corolla,2004,False
+525,26,IL,FEMALE,2015-02-28,Vehicle Theft,?,Trivial Damage,Police,SC,1,YES,1,1,?,Jeep,Grand Cherokee,1997,False
+526,45,IL,FEMALE,2015-02-12,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,NO,2,0,YES,Suburu,Legacy,2013,False
+527,47,IN,FEMALE,2015-01-06,Vehicle Theft,?,Trivial Damage,Police,SC,1,NO,1,1,NO,Ford,F150,2013,False
+528,54,IL,FEMALE,2015-02-15,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,?,0,1,NO,Jeep,Grand Cherokee,2010,False
+530,48,IL,FEMALE,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,?,2,3,YES,Chevrolet,Malibu,1995,False
+531,53,IN,FEMALE,2015-01-26,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,1,?,0,0,NO,Accura,MDX,2000,False
+532,38,IL,MALE,2015-01-25,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,3,NO,1,3,YES,Mercedes,C300,2012,False
+533,49,IN,MALE,2015-01-18,Vehicle Theft,?,Minor Damage,Unknown,SC,1,NO,0,3,NO,Mercedes,ML350,2009,False
+534,42,OH,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,3,NO,1,2,YES,Nissan,Pathfinder,2006,False
+536,46,IL,MALE,2015-01-10,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,3,?,1,3,YES,Volkswagen,Jetta,2004,False
+537,55,IL,FEMALE,2015-01-23,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,YES,2,1,NO,Nissan,Ultima,1995,False
+539,44,IN,FEMALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,1,NO,0,2,YES,BMW,X5,2015,False
+540,30,OH,FEMALE,2015-01-06,Single Vehicle Collision,Front Collision,Major Damage,Other,VA,1,?,2,2,NO,Volkswagen,Jetta,2011,False
+541,41,OH,FEMALE,2015-02-18,Parked Car,?,Trivial Damage,Police,NC,1,?,0,2,YES,Mercedes,E400,2013,False
+542,31,IL,FEMALE,2015-02-17,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,3,YES,1,3,NO,Saab,92x,2014,False
+543,25,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,YES,0,0,YES,Suburu,Impreza,1996,False
+545,29,IN,FEMALE,2015-02-03,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,?,1,3,NO,Suburu,Forrestor,2003,False
+546,43,IN,MALE,2015-01-07,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,VA,1,?,0,2,?,Audi,A5,2002,False
+548,38,IN,MALE,2015-01-13,Vehicle Theft,?,Minor Damage,Police,VA,1,?,1,2,NO,Accura,TL,2008,False
+549,29,OH,MALE,2015-02-28,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,?,2,1,?,BMW,X6,1996,False
+550,37,IN,MALE,2015-01-16,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NC,3,?,0,3,NO,Volkswagen,Jetta,1999,False
+551,53,OH,MALE,2015-02-01,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,YES,0,1,NO,Accura,RSX,2001,False
+553,53,IL,FEMALE,2015-02-16,Parked Car,?,Trivial Damage,Police,NC,1,YES,2,2,NO,Honda,CRV,2013,False
+554,40,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,YES,1,2,YES,Saab,95,2013,False
+556,35,IN,MALE,2015-01-31,Vehicle Theft,?,Trivial Damage,Police,WV,1,?,2,3,YES,Ford,F150,2011,False
+557,26,IL,MALE,2015-02-13,Vehicle Theft,?,Minor Damage,Police,NC,1,NO,0,2,YES,Accura,TL,2004,False
+559,38,IN,FEMALE,2015-01-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,?,1,0,?,Toyota,Camry,2011,False
+560,49,IN,MALE,2015-02-04,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,YES,1,1,YES,Chevrolet,Malibu,2010,False
+562,27,IN,FEMALE,2015-02-26,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,?,1,3,?,Ford,Fusion,2008,False
+563,39,IN,FEMALE,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,1,YES,0,0,?,Dodge,RAM,1997,False
+564,33,IN,FEMALE,2015-02-15,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,VA,4,?,2,3,YES,Jeep,Grand Cherokee,2002,False
+565,50,OH,FEMALE,2015-01-14,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,2,2,YES,Saab,92x,2002,False
+566,30,IN,FEMALE,2015-01-12,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,NO,2,0,YES,Toyota,Highlander,2010,False
+568,42,IN,MALE,2015-01-15,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,YES,1,1,NO,Chevrolet,Malibu,2007,False
+569,35,IL,MALE,2015-02-24,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,NO,1,3,YES,BMW,3 Series,2008,False
+570,33,OH,MALE,2015-02-07,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,3,NO,0,1,NO,Volkswagen,Jetta,1998,False
+571,39,OH,FEMALE,2015-02-22,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,NO,0,2,YES,Jeep,Wrangler,2010,False
+572,33,OH,FEMALE,2015-01-19,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,NO,2,3,?,Dodge,RAM,2014,False
+575,40,IN,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,YES,0,2,?,Audi,A3,2008,False
+576,46,OH,MALE,2015-02-17,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,?,2,2,NO,BMW,M5,2012,False
+578,52,IN,MALE,2015-02-02,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,2,YES,1,3,YES,Toyota,Highlander,2003,False
+580,45,IL,MALE,2015-01-04,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,1,NO,2,0,YES,Ford,Fusion,2006,False
+581,31,IL,MALE,2015-02-21,Multi-vehicle Collision,Side Collision,Major Damage,Other,NC,4,YES,2,0,?,Audi,A5,1999,False
+582,28,OH,FEMALE,2015-01-23,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,2,YES,2,1,NO,Ford,Fusion,2010,False
+583,41,OH,MALE,2015-02-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,3,NO,0,1,?,Toyota,Corolla,2009,False
+584,27,IL,FEMALE,2015-01-23,Parked Car,?,Trivial Damage,Police,WV,1,?,1,2,NO,Nissan,Pathfinder,2007,False
+585,35,IL,MALE,2015-02-10,Vehicle Theft,?,Minor Damage,Unknown,OH,1,?,1,3,NO,Chevrolet,Malibu,2000,False
+586,30,IN,MALE,2015-01-10,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,1,3,YES,Volkswagen,Jetta,2013,False
+588,64,IN,MALE,2015-02-21,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,1,NO,2,3,NO,Mercedes,ML350,2002,False
+589,25,IL,FEMALE,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,2,?,2,3,YES,Saab,93,2011,False
+590,40,OH,FEMALE,2015-02-28,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,PA,3,?,2,1,YES,Ford,Escape,1999,False
+592,41,IN,FEMALE,2015-01-11,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,NO,2,0,?,Chevrolet,Tahoe,1995,False
+594,38,OH,MALE,2015-01-09,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,3,NO,2,1,YES,Mercedes,ML350,1996,False
+595,36,IN,MALE,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Police,NC,1,YES,1,2,YES,Ford,Escape,2001,False
+596,41,IL,FEMALE,2015-02-26,Parked Car,?,Trivial Damage,Police,WV,1,?,2,0,NO,Dodge,RAM,2003,False
+598,41,IL,FEMALE,2015-01-04,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,?,1,3,YES,Saab,92x,2007,False
+599,38,OH,FEMALE,2015-02-19,Multi-vehicle Collision,Front Collision,Major Damage,Police,WV,3,NO,1,3,?,Saab,93,2003,False
+601,31,IN,MALE,2015-01-24,Single Vehicle Collision,Front Collision,Minor Damage,Other,NC,1,?,2,0,?,Ford,Escape,1997,False
+603,27,IN,FEMALE,2015-01-13,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,2,3,?,Toyota,Camry,2000,False
+604,27,OH,MALE,2015-02-28,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,2,?,0,1,YES,Toyota,Highlander,2008,False
+605,44,OH,MALE,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NY,1,NO,1,0,NO,Accura,MDX,1997,False
+606,27,OH,FEMALE,2015-02-05,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,1,?,0,3,?,Audi,A3,2010,False
+607,39,IN,FEMALE,2015-01-01,Parked Car,?,Minor Damage,Police,NY,1,YES,0,0,?,Accura,RSX,2003,False
+608,46,OH,FEMALE,2015-01-06,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,4,NO,2,1,?,Volkswagen,Jetta,1996,False
+609,57,IL,MALE,2015-02-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,NO,2,0,YES,Dodge,Neon,1995,False
+610,46,IN,MALE,2015-02-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,3,NO,1,0,NO,Toyota,Corolla,2006,False
+611,30,IL,MALE,2015-02-16,Multi-vehicle Collision,Front Collision,Minor Damage,Other,WV,3,?,2,1,?,Chevrolet,Tahoe,2005,False
+612,42,IL,FEMALE,2015-02-25,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,1,?,1,2,YES,BMW,X5,1998,False
+613,27,IN,MALE,2015-01-21,Multi-vehicle Collision,Front Collision,Minor Damage,Police,SC,3,NO,0,2,YES,Volkswagen,Passat,2003,False
+614,33,IL,MALE,2015-01-28,Parked Car,?,Minor Damage,Police,NY,1,?,0,1,NO,Toyota,Camry,2010,False
+615,34,IL,MALE,2015-02-27,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,3,?,1,0,NO,Nissan,Pathfinder,2000,False
+617,26,IL,MALE,2015-01-18,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,2,NO,2,2,?,Volkswagen,Passat,2010,False
+618,28,OH,MALE,2015-01-13,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,?,1,0,?,Jeep,Wrangler,2006,False
+619,36,IL,FEMALE,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,NO,0,3,?,Saab,93,2006,False
+621,27,OH,FEMALE,2015-02-13,Single Vehicle Collision,Side Collision,Minor Damage,Police,NY,1,?,2,1,YES,Ford,F150,1996,False
+622,28,OH,MALE,2015-02-13,Parked Car,?,Trivial Damage,Police,WV,1,?,2,0,?,Jeep,Grand Cherokee,2012,False
+624,31,OH,MALE,2015-01-13,Parked Car,?,Minor Damage,Unknown,SC,1,YES,1,0,NO,Nissan,Ultima,1996,False
+625,60,IN,FEMALE,2015-02-14,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NC,1,YES,1,1,NO,Mercedes,E400,1999,False
+626,50,IL,MALE,2015-01-20,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,4,YES,1,2,NO,Dodge,Neon,2010,False
+627,40,IN,MALE,2015-01-18,Parked Car,?,Trivial Damage,Police,WV,1,?,0,2,NO,Toyota,Camry,2010,False
+630,35,IN,FEMALE,2015-01-01,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,?,2,1,NO,Chevrolet,Malibu,2008,False
+631,37,OH,FEMALE,2015-01-29,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,2,NO,1,2,NO,Accura,MDX,2004,False
+632,45,OH,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,1,NO,0,2,NO,Accura,MDX,2006,False
+634,35,IL,FEMALE,2015-02-20,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,YES,0,3,YES,Toyota,Camry,2001,False
+636,28,OH,MALE,2015-01-18,Vehicle Theft,?,Minor Damage,Police,WV,1,YES,2,1,YES,Saab,95,1999,False
+637,45,IL,MALE,2015-01-09,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,0,2,?,Suburu,Impreza,1997,False
+639,48,IL,MALE,2015-02-13,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,2,?,1,1,?,Nissan,Ultima,2014,False
+640,38,OH,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,1,?,2,3,YES,Dodge,RAM,2005,False
+641,55,OH,FEMALE,2015-02-17,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,3,NO,0,3,NO,Suburu,Legacy,1998,False
+642,32,IL,FEMALE,2015-01-15,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,1,?,2,0,NO,Saab,92x,1995,False
+644,40,IL,MALE,2015-02-28,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,?,2,2,?,Volkswagen,Jetta,2009,False
+645,43,OH,FEMALE,2015-02-16,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,YES,2,1,YES,Honda,CRV,2014,False
+646,36,IN,MALE,2015-02-09,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NY,3,NO,2,3,?,Dodge,Neon,2004,False
+647,40,IL,MALE,2015-01-24,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,NO,1,2,NO,Suburu,Forrestor,2003,False
+648,32,OH,MALE,2015-02-11,Parked Car,?,Trivial Damage,Unknown,NY,1,?,0,2,?,Honda,CRV,2012,False
+651,27,IN,FEMALE,2015-02-20,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,YES,1,1,NO,Jeep,Wrangler,2008,False
+653,29,OH,FEMALE,2015-02-21,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,NO,1,3,YES,Jeep,Wrangler,1995,False
+654,20,IN,FEMALE,2015-02-01,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,1,3,YES,Audi,A5,2000,False
+655,34,OH,MALE,2015-02-25,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,YES,1,1,YES,Ford,F150,2001,False
+656,32,OH,MALE,2015-02-24,Vehicle Theft,?,Trivial Damage,Police,SC,1,?,1,3,NO,Ford,F150,2010,False
+658,43,OH,FEMALE,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NC,1,?,2,0,?,Nissan,Maxima,2013,False
+659,32,IL,MALE,2015-01-10,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,1,?,0,3,YES,Suburu,Legacy,2010,False
+660,57,IN,MALE,2015-02-14,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,3,NO,0,0,NO,Jeep,Wrangler,2012,False
+661,48,OH,MALE,2015-02-26,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,1,YES,1,3,?,Dodge,Neon,2006,False
+662,37,OH,FEMALE,2015-01-30,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,YES,1,0,?,Honda,CRV,2009,False
+663,33,IL,FEMALE,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,3,NO,0,1,NO,Saab,95,1999,False
+664,46,OH,FEMALE,2015-02-27,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,?,0,1,YES,Accura,TL,2000,False
+667,40,OH,MALE,2015-02-27,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,YES,1,1,NO,Audi,A5,1997,False
+668,47,IN,MALE,2015-02-02,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,1,NO,2,2,YES,Toyota,Camry,2010,False
+669,57,OH,MALE,2015-01-17,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,3,NO,1,3,NO,Nissan,Maxima,2003,False
+670,36,IN,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,3,?,1,3,?,Jeep,Wrangler,2014,False
+671,43,IL,MALE,2015-01-20,Single Vehicle Collision,Front Collision,Minor Damage,Fire,SC,1,NO,0,3,?,Ford,F150,2002,False
+672,25,IN,FEMALE,2015-02-05,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,YES,1,0,NO,Dodge,RAM,2000,False
+673,28,IL,FEMALE,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,1,?,0,1,?,Dodge,Neon,2011,False
+674,38,OH,MALE,2015-02-24,Vehicle Theft,?,Trivial Damage,Police,VA,1,NO,1,1,YES,Toyota,Corolla,1995,False
+675,29,IL,MALE,2015-02-21,Vehicle Theft,?,Trivial Damage,Police,SC,1,NO,0,2,?,Jeep,Wrangler,2008,False
+676,29,OH,MALE,2015-02-11,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,YES,2,0,NO,Saab,93,2006,False
+677,31,IN,MALE,2015-01-24,Parked Car,?,Trivial Damage,Unknown,NY,1,YES,1,2,?,Saab,93,2003,False
+678,45,IL,FEMALE,2015-01-06,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,3,?,0,2,?,Ford,Escape,2010,False
+679,30,OH,FEMALE,2015-01-15,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,3,NO,2,2,NO,Dodge,Neon,1997,False
+680,38,IN,MALE,2015-02-22,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,?,2,2,YES,Accura,TL,2001,False
+681,38,IL,MALE,2015-01-21,Parked Car,?,Trivial Damage,Police,NC,1,YES,0,0,NO,Honda,CRV,2015,False
+682,27,OH,MALE,2015-02-03,Parked Car,?,Trivial Damage,Police,SC,1,NO,0,3,NO,Volkswagen,Passat,2009,False
+685,50,OH,MALE,2015-01-14,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,1,NO,2,0,?,Chevrolet,Silverado,2008,False
+686,35,IN,FEMALE,2015-02-02,Parked Car,?,Trivial Damage,Unknown,NY,1,NO,0,1,NO,Saab,92x,1998,False
+687,41,IL,MALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,3,?,0,2,?,Saab,95,1999,False
+688,47,IN,MALE,2015-01-15,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,YES,1,3,YES,Audi,A5,2002,False
+689,42,OH,MALE,2015-02-24,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,1,NO,2,3,?,Saab,92x,1996,False
+690,41,IL,FEMALE,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,YES,2,2,NO,BMW,X6,1999,False
+692,35,IN,MALE,2015-02-04,Parked Car,?,Minor Damage,Police,WV,1,YES,1,1,NO,Jeep,Grand Cherokee,2005,False
+693,36,OH,MALE,2015-01-25,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,NO,2,0,YES,Ford,Escape,1996,False
+694,30,OH,FEMALE,2015-02-25,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,?,0,0,YES,Audi,A3,2013,False
+695,45,OH,FEMALE,2015-02-27,Vehicle Theft,?,Trivial Damage,Police,WV,1,NO,2,1,NO,Honda,Accord,2006,False
+696,36,OH,MALE,2015-02-11,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,1,?,2,1,YES,Volkswagen,Jetta,2006,False
+697,37,OH,FEMALE,2015-01-04,Single Vehicle Collision,Rear Collision,Major Damage,Other,VA,1,?,2,3,?,Nissan,Maxima,2002,False
+698,31,IN,FEMALE,2015-01-26,Vehicle Theft,?,Trivial Damage,Police,SC,1,YES,1,0,NO,Mercedes,E400,2002,False
+702,57,IL,MALE,2015-02-05,Parked Car,?,Minor Damage,Unknown,NY,1,YES,1,3,?,Volkswagen,Passat,2000,False
+706,43,IN,FEMALE,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,YES,2,3,YES,Nissan,Ultima,1997,False
+711,30,IL,MALE,2015-02-07,Parked Car,?,Minor Damage,Unknown,SC,1,NO,2,1,NO,Jeep,Wrangler,2015,False
+714,61,IL,FEMALE,2015-02-18,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,YES,0,2,?,Mercedes,E400,1998,False
+716,28,OH,MALE,2015-01-22,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,NO,2,2,YES,Dodge,Neon,1998,False
+717,28,OH,MALE,2015-02-23,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,NO,0,3,YES,Accura,TL,2000,False
+718,44,OH,FEMALE,2015-01-15,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,YES,0,0,YES,Audi,A3,2002,False
+719,43,IN,MALE,2015-02-20,Vehicle Theft,?,Trivial Damage,Police,PA,1,NO,1,0,YES,Volkswagen,Jetta,2003,False
+720,58,IN,MALE,2015-01-19,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,YES,0,0,NO,Dodge,RAM,2004,False
+721,34,OH,MALE,2015-01-10,Parked Car,?,Trivial Damage,Police,NY,1,?,1,3,YES,Dodge,RAM,2015,False
+723,29,OH,MALE,2015-02-12,Parked Car,?,Minor Damage,Police,OH,1,NO,2,3,NO,Accura,MDX,2005,False
+724,43,IL,MALE,2015-01-23,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,NO,0,0,YES,Chevrolet,Tahoe,2007,False
+725,39,OH,FEMALE,2015-02-13,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,3,?,2,0,YES,Dodge,Neon,1997,False
+726,43,OH,MALE,2015-01-27,Parked Car,?,Minor Damage,Police,NC,1,NO,1,3,YES,Chevrolet,Tahoe,2011,False
+730,31,IN,FEMALE,2015-01-20,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,1,NO,0,0,NO,Suburu,Forrestor,1997,False
+731,43,IN,FEMALE,2015-01-08,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,1,?,2,2,YES,Toyota,Highlander,2006,False
+732,26,OH,FEMALE,2015-02-23,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,YES,2,3,NO,Saab,92x,2007,False
+733,34,IN,FEMALE,2015-02-04,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,1,?,0,1,NO,Dodge,RAM,1999,False
+734,43,IN,MALE,2015-02-09,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,NO,2,1,?,Accura,RSX,2006,False
+735,45,IL,FEMALE,2015-02-18,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,3,NO,1,1,NO,Jeep,Wrangler,2015,False
+736,48,OH,MALE,2015-02-10,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,NO,2,1,?,Volkswagen,Jetta,2001,False
+737,33,IL,FEMALE,2015-01-20,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,3,?,2,3,YES,Nissan,Pathfinder,2006,False
+738,42,OH,FEMALE,2015-01-27,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,?,0,0,YES,Honda,Civic,1998,False
+739,34,IN,MALE,2015-01-21,Vehicle Theft,?,Minor Damage,Unknown,WV,1,YES,0,3,NO,Chevrolet,Malibu,2003,False
+740,51,IN,FEMALE,2015-02-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,WV,3,?,1,3,?,Suburu,Legacy,2007,False
+741,33,OH,MALE,2015-02-26,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NC,1,NO,1,2,NO,BMW,X5,2004,False
+746,39,OH,FEMALE,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,YES,0,3,NO,Audi,A3,2010,False
+747,31,IL,FEMALE,2015-02-13,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,NO,1,1,YES,Dodge,RAM,1995,False
+748,44,IL,FEMALE,2015-02-15,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,3,YES,0,3,?,Jeep,Wrangler,2010,False
+749,38,IL,FEMALE,2015-02-14,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,1,NO,0,1,?,Ford,F150,2003,False
+750,31,OH,FEMALE,2015-01-31,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,2,1,NO,Mercedes,E400,1995,False
+751,40,IL,FEMALE,2015-01-28,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,NO,0,0,YES,Accura,TL,2001,False
+752,55,IL,MALE,2015-03-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,4,YES,0,2,NO,Chevrolet,Tahoe,1997,False
+753,58,IN,MALE,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,?,1,1,YES,Mercedes,E400,2004,False
+754,35,IN,FEMALE,2015-02-25,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,3,YES,2,0,?,Nissan,Maxima,2012,False
+755,35,IL,MALE,2015-01-30,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,3,?,0,0,?,Dodge,Neon,1995,False
+756,32,IL,MALE,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,?,2,3,YES,Jeep,Wrangler,1996,False
+757,36,OH,MALE,2015-02-08,Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,1,YES,2,3,NO,Accura,MDX,1995,False
+758,60,IN,MALE,2015-01-13,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,1,NO,0,2,NO,Saab,93,2005,False
+759,35,OH,FEMALE,2015-01-18,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,1,?,0,3,?,Nissan,Maxima,1997,False
+760,31,OH,FEMALE,2015-03-01,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,3,?,2,1,?,Nissan,Maxima,1997,False
+764,50,IN,FEMALE,2015-01-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,YES,1,3,NO,Mercedes,C300,2012,False
+765,37,OH,FEMALE,2015-01-17,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,1,?,2,0,YES,Suburu,Forrestor,2003,False
+766,39,IL,FEMALE,2015-02-04,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,3,YES,2,1,?,Suburu,Impreza,2007,False
+767,46,IL,FEMALE,2015-02-14,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,YES,0,0,NO,Jeep,Wrangler,2001,False
+768,61,IL,FEMALE,2015-01-07,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,1,YES,2,0,YES,Suburu,Forrestor,2007,False
+769,37,IL,MALE,2015-02-02,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,?,2,1,YES,Audi,A5,2005,False
+770,46,IL,FEMALE,2015-01-12,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,NO,1,0,NO,Volkswagen,Jetta,2011,False
+771,39,IN,MALE,2015-01-01,Single Vehicle Collision,Side Collision,Minor Damage,Fire,VA,1,?,1,1,NO,Chevrolet,Silverado,1995,False
+772,37,OH,FEMALE,2015-02-22,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,1,?,1,3,YES,Toyota,Highlander,2000,False
+773,33,IN,FEMALE,2015-01-16,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,3,YES,0,1,YES,Saab,93,1995,False
+774,28,IL,MALE,2015-01-28,Multi-vehicle Collision,Side Collision,Minor Damage,Police,WV,4,NO,1,0,YES,Toyota,Camry,2006,False
+775,32,IN,FEMALE,2015-01-23,Parked Car,?,Trivial Damage,Police,WV,1,YES,1,2,?,Audi,A3,2002,False
+776,61,IN,FEMALE,2015-02-25,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,NO,2,1,NO,Volkswagen,Passat,2003,False
+777,40,IN,FEMALE,2015-02-11,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,3,?,0,0,YES,Dodge,Neon,2003,False
+778,38,IL,MALE,2015-01-03,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,YES,2,2,YES,Volkswagen,Jetta,2003,False
+779,61,IN,FEMALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,3,?,2,1,NO,Nissan,Ultima,2005,False
+780,61,IN,FEMALE,2015-01-18,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,1,?,1,2,YES,Suburu,Legacy,2009,False
+781,29,IN,FEMALE,2015-01-04,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NC,1,NO,0,3,?,Dodge,RAM,2009,False
+782,41,OH,FEMALE,2015-01-20,Vehicle Theft,?,Minor Damage,Unknown,NY,1,NO,0,1,?,Chevrolet,Malibu,2011,False
+783,33,IL,MALE,2015-02-12,Parked Car,?,Trivial Damage,Unknown,NY,1,NO,0,1,NO,Nissan,Ultima,2003,False
+786,27,IL,MALE,2015-02-02,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,4,YES,0,0,NO,Toyota,Camry,2012,False
+787,30,IN,MALE,2015-02-01,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,3,NO,1,2,?,Dodge,Neon,2007,False
+789,34,IN,FEMALE,2015-01-16,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,1,?,0,0,YES,Volkswagen,Passat,2012,False
+790,39,OH,MALE,2015-02-20,Parked Car,?,Trivial Damage,Police,SC,1,YES,2,1,YES,Nissan,Pathfinder,2011,False
+792,39,OH,MALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Total Loss,Police,VA,3,YES,0,3,NO,Suburu,Legacy,2015,False
+793,32,IN,FEMALE,2015-02-25,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NY,1,YES,0,1,NO,Toyota,Camry,2003,False
+794,48,IL,MALE,2015-01-24,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,NO,2,0,NO,Saab,95,1995,False
+795,47,IN,MALE,2015-01-16,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,?,0,3,YES,Jeep,Grand Cherokee,1999,False
+797,33,OH,FEMALE,2015-01-04,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NC,1,YES,0,1,YES,Toyota,Corolla,2015,False
+798,24,OH,FEMALE,2015-02-02,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,1,NO,2,0,?,Toyota,Camry,1999,False
+799,24,IN,FEMALE,2015-02-01,Parked Car,?,Trivial Damage,Unknown,VA,1,YES,0,1,?,Audi,A3,1998,False
+800,30,IL,MALE,2015-02-14,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,YES,0,3,?,Accura,MDX,1999,False
+801,36,IN,FEMALE,2015-02-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,?,2,0,YES,Chevrolet,Tahoe,2000,False
+802,34,IN,FEMALE,2015-01-22,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,?,2,2,NO,Chevrolet,Malibu,2009,False
+804,46,OH,MALE,2015-02-03,Parked Car,?,Trivial Damage,Police,WV,1,YES,2,3,YES,Toyota,Camry,1995,False
+805,42,IN,MALE,2015-01-20,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,NO,0,1,NO,Saab,95,2013,False
+806,37,IN,MALE,2015-01-01,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,1,YES,0,1,YES,Nissan,Pathfinder,2005,False
+807,38,IN,FEMALE,2015-02-02,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,3,NO,2,3,?,Audi,A3,1995,False
+808,34,IL,FEMALE,2015-01-23,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,1,?,1,2,NO,Audi,A3,2009,False
+810,43,IL,FEMALE,2015-01-02,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,3,NO,0,2,YES,Ford,Fusion,2012,False
+811,30,OH,FEMALE,2015-02-25,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,0,3,YES,Chevrolet,Malibu,2013,False
+813,48,OH,FEMALE,2015-02-09,Vehicle Theft,?,Minor Damage,Unknown,WV,1,?,1,2,NO,Accura,MDX,2013,False
+814,25,IL,FEMALE,2015-01-16,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,VA,3,NO,0,1,YES,Nissan,Maxima,2010,False
+815,38,IN,FEMALE,2015-02-01,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,?,0,1,NO,Volkswagen,Passat,2008,False
+816,30,IL,FEMALE,2015-02-10,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,4,?,0,0,?,Nissan,Pathfinder,2006,False
+818,41,IL,MALE,2015-01-01,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,2,0,?,Chevrolet,Malibu,2009,False
+819,47,IN,MALE,2015-02-23,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,1,YES,0,3,?,Dodge,RAM,2009,False
+820,29,IL,MALE,2015-01-28,Vehicle Theft,?,Trivial Damage,Unknown,VA,1,?,0,0,?,Audi,A5,1999,False
+821,34,IN,FEMALE,2015-02-22,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,?,0,0,?,Nissan,Pathfinder,2011,False
+822,53,OH,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,WV,1,?,2,3,YES,Honda,Civic,2006,False
+824,37,IN,FEMALE,2015-01-25,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,1,YES,1,1,NO,Ford,F150,2001,False
+825,49,IL,FEMALE,2015-01-10,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,1,?,1,1,?,Volkswagen,Passat,2002,False
+826,32,OH,FEMALE,2015-01-28,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,?,0,1,?,Suburu,Impreza,2006,False
+827,24,OH,FEMALE,2015-02-18,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,NO,1,1,?,Suburu,Forrestor,1997,False
+828,28,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,NO,2,2,NO,Audi,A5,1995,False
+830,36,IL,FEMALE,2015-01-10,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,1,NO,2,0,NO,Dodge,Neon,2009,False
+832,46,IN,FEMALE,2015-01-16,Vehicle Theft,?,Minor Damage,Police,VA,1,YES,1,3,YES,Nissan,Pathfinder,2007,False
+833,28,IN,FEMALE,2015-01-01,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,4,NO,0,1,?,Ford,F150,2011,False
+834,32,OH,MALE,2015-01-07,Vehicle Theft,?,Minor Damage,Police,SC,1,YES,1,1,YES,Suburu,Legacy,2005,False
+835,55,IN,MALE,2015-02-17,Vehicle Theft,?,Minor Damage,Unknown,NC,1,?,0,2,?,Mercedes,ML350,2015,False
+836,43,IN,FEMALE,2015-02-26,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,1,NO,0,1,YES,Nissan,Pathfinder,2006,False
+839,43,OH,MALE,2015-03-01,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,1,NO,2,2,YES,Dodge,Neon,2011,False
+840,44,OH,FEMALE,2015-02-13,Parked Car,?,Trivial Damage,Unknown,SC,1,NO,0,3,?,Chevrolet,Malibu,1998,False
+841,39,OH,MALE,2015-01-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,?,1,0,YES,Saab,95,1999,False
+842,44,IN,FEMALE,2015-02-05,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,2,1,?,BMW,X5,2000,False
+844,47,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,3,NO,1,3,?,Jeep,Wrangler,2014,False
+846,42,IN,MALE,2015-01-23,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,1,NO,0,3,?,Toyota,Corolla,2005,False
+847,43,OH,FEMALE,2015-01-11,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,YES,1,3,?,Jeep,Wrangler,2010,False
+849,53,IL,MALE,2015-02-24,Parked Car,?,Trivial Damage,Police,NC,1,NO,0,3,NO,Saab,93,2001,False
+850,21,IN,MALE,2015-01-19,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,YES,2,0,YES,Accura,RSX,2014,False
+852,47,OH,FEMALE,2015-03-01,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,NO,2,3,NO,Mercedes,ML350,2000,False
+853,46,OH,MALE,2015-01-21,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,NO,1,3,YES,Nissan,Pathfinder,1996,False
+854,36,IN,FEMALE,2015-02-28,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,NO,2,2,?,Saab,95,2008,False
+855,36,IN,MALE,2015-01-26,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,?,1,3,YES,Audi,A3,2015,False
+856,45,OH,MALE,2015-01-31,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,3,?,0,1,NO,Suburu,Impreza,2012,False
+857,46,OH,MALE,2015-02-20,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,NO,0,1,NO,Toyota,Camry,2005,False
+858,43,OH,FEMALE,2015-02-17,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,?,2,3,YES,Nissan,Pathfinder,2000,False
+859,30,IL,MALE,2015-02-02,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,NO,2,3,?,Suburu,Legacy,2005,False
+860,42,IN,FEMALE,2015-02-06,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,NO,1,2,YES,Accura,MDX,1999,False
+861,40,IL,FEMALE,2015-02-11,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,3,YES,0,2,YES,Nissan,Pathfinder,2006,False
+862,44,OH,FEMALE,2015-01-25,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,YES,2,0,?,Suburu,Impreza,2009,False
+863,26,IL,FEMALE,2015-02-23,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,3,?,0,2,?,Jeep,Wrangler,1996,False
+864,53,IL,FEMALE,2015-01-29,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,1,YES,2,1,?,Toyota,Camry,2000,False
+866,33,IN,FEMALE,2015-02-06,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,NO,1,0,NO,Accura,TL,2014,False
+867,39,OH,FEMALE,2015-02-14,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,2,NO,0,3,YES,Dodge,RAM,2008,False
+870,43,IN,FEMALE,2015-02-12,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,?,1,0,?,Honda,CRV,2011,False
+871,34,IN,FEMALE,2015-01-28,Parked Car,?,Minor Damage,Police,WV,1,NO,2,0,YES,Jeep,Wrangler,2013,False
+873,49,IL,FEMALE,2015-01-19,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,?,0,2,YES,Chevrolet,Malibu,2007,False
+874,39,IN,FEMALE,2015-01-19,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,1,YES,1,0,YES,Mercedes,ML350,1995,False
+876,39,IN,FEMALE,2015-02-16,Vehicle Theft,?,Trivial Damage,Police,WV,1,YES,1,2,?,Saab,93,2000,False
+877,57,IN,MALE,2015-01-08,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,3,?,2,3,?,Saab,93,2008,False
+879,47,IL,MALE,2015-02-18,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,1,YES,2,1,?,Mercedes,E400,2002,False
+882,30,IL,FEMALE,2015-02-02,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,?,0,0,NO,BMW,3 Series,2011,False
+884,48,IL,MALE,2015-02-04,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,NO,2,2,?,BMW,M5,1998,False
+885,45,IL,MALE,2015-02-27,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,3,YES,0,0,?,BMW,3 Series,2004,False
+886,30,IL,FEMALE,2015-02-09,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,1,NO,1,0,YES,Audi,A3,2002,False
+887,55,IN,MALE,2015-02-19,Parked Car,?,Minor Damage,Unknown,VA,1,NO,0,0,NO,Honda,Civic,2002,False
+888,55,OH,FEMALE,2015-01-12,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,YES,1,2,YES,Accura,TL,2011,False
+889,38,IL,FEMALE,2015-02-07,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,NO,2,0,NO,Volkswagen,Jetta,2007,False
+890,34,IN,FEMALE,2015-01-13,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,1,YES,2,0,NO,Suburu,Legacy,2012,False
+891,60,IL,FEMALE,2015-01-18,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,2,?,0,3,?,Saab,95,2006,False
+892,35,IL,MALE,2015-01-15,Vehicle Theft,?,Trivial Damage,Unknown,WV,1,?,2,1,NO,Jeep,Wrangler,2001,False
+893,33,OH,MALE,2015-02-23,Vehicle Theft,?,Minor Damage,Unknown,NC,1,YES,0,0,?,Dodge,Neon,2011,False
+894,31,IN,MALE,2015-02-17,Parked Car,?,Minor Damage,Unknown,NY,1,?,1,3,?,Suburu,Impreza,2000,False
+896,45,IN,MALE,2015-01-18,Parked Car,?,Trivial Damage,Police,SC,1,NO,0,3,YES,Saab,92x,2008,False
+897,39,IL,FEMALE,2015-01-17,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,NO,2,0,?,Jeep,Wrangler,2010,False
+898,43,OH,FEMALE,2015-02-25,Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,1,NO,0,1,NO,Chevrolet,Malibu,1998,False
+899,34,OH,FEMALE,2015-01-06,Vehicle Theft,?,Minor Damage,Unknown,NC,1,YES,1,3,?,Saab,92x,1998,False
+900,33,OH,MALE,2015-02-26,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,YES,0,3,NO,Mercedes,C300,2000,False
+901,21,IN,FEMALE,2015-02-11,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,1,YES,0,0,NO,Nissan,Pathfinder,1998,False
+902,28,IL,MALE,2015-02-13,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,NO,2,1,NO,Honda,Accord,1997,False
+903,30,IN,MALE,2015-01-10,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,YES,2,3,NO,Volkswagen,Jetta,1996,False
+904,27,OH,FEMALE,2015-01-24,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,3,YES,2,1,YES,Saab,95,2014,False
+906,43,OH,MALE,2015-01-09,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,3,NO,2,0,YES,BMW,X5,2011,False
+907,53,OH,FEMALE,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,?,1,2,?,Saab,92x,2005,False
+908,44,OH,MALE,2015-02-04,Vehicle Theft,?,Minor Damage,Police,WV,1,YES,1,0,?,Honda,Civic,2010,False
+909,38,IN,FEMALE,2015-01-30,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,3,?,0,2,NO,Jeep,Wrangler,2010,False
+910,48,IL,FEMALE,2015-02-27,Single Vehicle Collision,Side Collision,Minor Damage,Police,PA,1,NO,1,2,YES,Nissan,Pathfinder,2012,False
+911,26,IN,MALE,2015-02-05,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,2,?,0,1,YES,Jeep,Wrangler,2001,False
+913,45,IL,MALE,2015-01-03,Single Vehicle Collision,Side Collision,Minor Damage,Fire,WV,1,?,1,1,NO,Honda,CRV,2011,False
+914,36,OH,FEMALE,2015-03-01,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,4,YES,0,2,YES,Honda,Accord,1998,False
+916,38,OH,MALE,2015-02-25,Vehicle Theft,?,Trivial Damage,Police,NY,1,?,1,1,YES,Honda,Civic,1999,False
+917,41,OH,MALE,2015-01-23,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,NO,1,3,NO,Mercedes,C300,2009,False
+918,36,IL,MALE,2015-02-19,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,YES,2,1,?,Toyota,Corolla,1998,False
+920,40,OH,MALE,2015-02-04,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,1,NO,1,0,YES,Accura,MDX,2000,False
+921,38,IL,FEMALE,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,NO,0,3,NO,BMW,M5,2011,False
+922,35,IL,MALE,2015-01-14,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,0,3,NO,Nissan,Ultima,1998,False
+923,31,OH,FEMALE,2015-01-06,Single Vehicle Collision,Rear Collision,Total Loss,Other,SC,1,YES,1,0,YES,Accura,RSX,2007,False
+924,30,IN,FEMALE,2015-01-19,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,NO,0,1,NO,Honda,Accord,2003,False
+925,46,IL,FEMALE,2015-01-24,Vehicle Theft,?,Minor Damage,Police,VA,1,?,2,3,NO,Jeep,Wrangler,2010,False
+928,30,IN,MALE,2015-01-15,Vehicle Theft,?,Trivial Damage,Police,VA,1,YES,1,3,?,Audi,A5,1998,False
+931,34,OH,FEMALE,2015-01-14,Multi-vehicle Collision,Side Collision,Total Loss,Fire,PA,3,NO,1,1,?,Nissan,Ultima,2000,False
+932,44,IL,MALE,2015-01-27,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NC,3,?,2,1,YES,Honda,Civic,1996,False
+933,37,IL,FEMALE,2015-02-12,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,YES,1,3,?,Dodge,Neon,2008,False
+934,31,OH,FEMALE,2015-02-03,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,3,NO,1,3,?,Toyota,Highlander,2010,False
+936,40,OH,MALE,2015-01-09,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,?,1,0,?,Honda,CRV,2003,False
+937,59,IN,FEMALE,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Police,VA,1,?,2,2,YES,Jeep,Grand Cherokee,1995,False
+940,47,OH,FEMALE,2015-01-03,Parked Car,?,Minor Damage,Police,NY,1,?,1,1,YES,Suburu,Impreza,2002,False
+941,48,IL,FEMALE,2015-01-22,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,3,?,0,0,?,Volkswagen,Passat,1998,False
+942,31,IN,FEMALE,2015-01-13,Parked Car,?,Minor Damage,Unknown,SC,1,NO,1,3,NO,Volkswagen,Passat,1998,False
+943,57,IN,FEMALE,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NC,3,YES,0,0,NO,Audi,A3,2015,False
+944,42,IL,MALE,2015-02-04,Single Vehicle Collision,Side Collision,Total Loss,Police,SC,1,YES,1,3,YES,Jeep,Grand Cherokee,2005,False
+945,56,IL,MALE,2015-01-20,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,3,NO,0,2,NO,Suburu,Forrestor,1997,False
+947,63,IL,FEMALE,2015-02-05,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,NO,0,3,?,Suburu,Legacy,2015,False
+948,31,OH,MALE,2015-01-02,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,NO,1,1,NO,Suburu,Forrestor,2011,False
+949,55,OH,FEMALE,2015-02-08,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,?,2,3,YES,Ford,Escape,2010,False
+950,27,IL,FEMALE,2015-01-13,Parked Car,?,Minor Damage,Unknown,SC,1,NO,1,0,NO,Toyota,Camry,2001,False
+951,37,IN,FEMALE,2015-01-16,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,1,?,0,3,?,Nissan,Maxima,2000,False
+952,46,IN,FEMALE,2015-01-30,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,3,NO,0,2,NO,Audi,A3,2014,False
+953,43,IN,MALE,2015-02-26,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,1,0,YES,Volkswagen,Jetta,2012,False
+954,39,IN,FEMALE,2015-01-27,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,YES,0,3,?,Honda,CRV,2004,False
+955,38,OH,MALE,2015-01-28,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,YES,0,0,NO,Nissan,Maxima,2013,False
+956,32,IN,MALE,2015-02-23,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,YES,0,3,YES,Toyota,Camry,2003,False
+957,42,IL,FEMALE,2015-01-18,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,NO,2,1,NO,Chevrolet,Silverado,1995,False
+958,25,OH,MALE,2015-02-15,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NC,3,NO,1,3,NO,Dodge,RAM,1995,False
+959,35,OH,FEMALE,2015-02-04,Vehicle Theft,?,Minor Damage,Police,VA,1,NO,0,0,YES,Saab,92x,2008,False
+960,34,IL,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,3,NO,1,2,YES,Toyota,Camry,2005,False
+961,35,IN,FEMALE,2015-01-02,Vehicle Theft,?,Trivial Damage,Police,VA,1,?,2,0,?,Accura,MDX,2012,False
+962,37,OH,FEMALE,2015-01-27,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,1,NO,0,2,?,Chevrolet,Silverado,2013,False
+963,30,OH,FEMALE,2015-02-09,Vehicle Theft,?,Minor Damage,Police,WV,1,NO,0,0,YES,BMW,3 Series,2006,False
+965,26,IL,MALE,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,1,?,0,0,NO,BMW,3 Series,1995,False
+966,29,OH,FEMALE,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NC,3,YES,0,0,?,Jeep,Grand Cherokee,1998,False
+968,50,OH,FEMALE,2015-01-03,Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,3,NO,2,2,YES,Accura,MDX,2003,False
+969,55,OH,MALE,2015-02-23,Vehicle Theft,?,Trivial Damage,Police,SC,1,?,2,3,?,Accura,MDX,2012,False
+970,35,OH,MALE,2015-01-22,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,YES,2,0,YES,Ford,Escape,2007,False
+971,25,OH,FEMALE,2015-02-13,Single Vehicle Collision,Front Collision,Total Loss,Fire,VA,1,NO,2,1,?,Mercedes,C300,1995,False
+975,40,IN,FEMALE,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,2,YES,0,2,?,Ford,Escape,2008,False
+976,33,OH,FEMALE,2015-01-26,Multi-vehicle Collision,Side Collision,Major Damage,Fire,WV,3,?,2,2,?,Accura,RSX,2002,False
+978,32,IN,FEMALE,2015-01-23,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,?,2,3,YES,Dodge,Neon,1999,False
+979,37,IN,FEMALE,2015-02-05,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,1,NO,0,2,YES,Saab,95,2004,False
+980,40,IL,MALE,2015-02-15,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,OH,1,YES,0,2,YES,Suburu,Forrestor,1999,False
+981,44,OH,MALE,2015-01-08,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,3,?,1,2,NO,Dodge,Neon,2008,False
+983,39,IL,FEMALE,2015-02-26,Parked Car,?,Trivial Damage,Police,SC,1,?,2,1,?,Suburu,Legacy,2002,False
+984,36,IN,MALE,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,WV,1,YES,2,1,NO,Toyota,Corolla,2013,False
+985,32,OH,MALE,2015-01-13,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,?,0,2,?,Jeep,Wrangler,1995,False
+988,46,IN,FEMALE,2015-02-17,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,YES,1,1,NO,Honda,Civic,1997,False
+989,21,IN,FEMALE,2015-02-15,Multi-vehicle Collision,Rear Collision,Total Loss,Police,SC,3,YES,1,2,?,Chevrolet,Malibu,2015,False
+990,43,IL,FEMALE,2015-01-31,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,?,2,2,YES,Jeep,Grand Cherokee,2013,False
+991,44,OH,MALE,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,1,NO,0,1,NO,Accura,TL,2002,False
+992,26,IN,MALE,2015-01-23,Multi-vehicle Collision,Front Collision,Major Damage,Fire,OH,3,YES,1,2,YES,Nissan,Pathfinder,2010,False
+993,28,OH,MALE,2015-02-17,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,3,?,0,1,?,Volkswagen,Passat,2012,False
+994,30,IN,MALE,2015-01-22,Parked Car,?,Minor Damage,Police,SC,1,?,1,2,YES,Honda,Civic,1996,False
+995,38,OH,FEMALE,2015-02-22,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,1,YES,0,1,?,Honda,Accord,2006,False
+996,41,IL,FEMALE,2015-01-24,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,YES,2,3,?,Volkswagen,Passat,2015,False
+997,34,OH,FEMALE,2015-01-23,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,3,?,2,3,YES,Suburu,Impreza,1996,False
+998,62,IL,MALE,2015-02-26,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,1,?,0,1,YES,Audi,A5,1998,False
+999,60,OH,FEMALE,2015-02-26,Parked Car,?,Minor Damage,Police,WV,1,?,0,3,?,Mercedes,E400,2007,False
